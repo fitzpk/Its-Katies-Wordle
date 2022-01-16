@@ -3,8 +3,6 @@
 },{
     "text": "ABIDE"
 },{
-    "text": "ABYSS"
-},{
     "text": "ABOIL"
 },{
     "text": "ABORT"
@@ -16,6 +14,8 @@
     "text": "ABUSE"
 },{
     "text": "ABUZZ"
+},{
+    "text": "ABYSS"
 },{
     "text": "ACCEL"
 },{
@@ -139,11 +139,11 @@
 },{
     "text": "ALLEY"
 },{
-    "text": "ALLOY"
-},{
     "text": "ALLOT"
 },{
     "text": "ALLOW"
+},{
+    "text": "ALLOY"
 },{
     "text": "ALOFT"
 },{
@@ -313,8 +313,6 @@
 },{
     "text": "AWAFT"
 },{
-    "text": "AWAYS"
-},{
     "text": "AWAIT"
 },{
     "text": "AWAKE"
@@ -326,6 +324,8 @@
     "text": "AWASH"
 },{
     "text": "AWAVE"
+},{
+    "text": "AWAYS"
 },{
     "text": "AWFUL"
 },{
@@ -361,9 +361,9 @@
 },{
     "text": "BALLS"
 },{
-    "text": "BALMY"
-},{
     "text": "BALMS"
+},{
+    "text": "BALMY"
 },{
     "text": "BANAL"
 },{
@@ -491,8 +491,6 @@
 },{
     "text": "BIKES"
 },{
-    "text": "BYLAW"
-},{
     "text": "BILBO"
 },{
     "text": "BILES"
@@ -520,8 +518,6 @@
     "text": "BITER"
 },{
     "text": "BITES"
-},{
-    "text": "BYTES"
 },{
     "text": "BLACK"
 },{
@@ -577,11 +573,11 @@
 },{
     "text": "BLOOM"
 },{
-    "text": "BLOWY"
-},{
     "text": "BLOWN"
 },{
     "text": "BLOWS"
+},{
+    "text": "BLOWY"
 },{
     "text": "BLUES"
 },{
@@ -635,9 +631,9 @@
 },{
     "text": "BOOTH"
 },{
-    "text": "BOOTY"
-},{
     "text": "BOOTS"
+},{
+    "text": "BOOTY"
 },{
     "text": "BOOZE"
 },{
@@ -761,8 +757,6 @@
 },{
     "text": "BUGGY"
 },{
-    "text": "BUYER"
-},{
     "text": "BUILD"
 },{
     "text": "BUILT"
@@ -775,9 +769,9 @@
 },{
     "text": "BULLS"
 },{
-    "text": "BUMPY"
-},{
     "text": "BUMPS"
+},{
+    "text": "BUMPY"
 },{
     "text": "BUNCH"
 },{
@@ -815,7 +809,13 @@
 },{
     "text": "BUTTS"
 },{
+    "text": "BUYER"
+},{
     "text": "BUZZY"
+},{
+    "text": "BYLAW"
+},{
+    "text": "BYTES"
 },{
     "text": "CABAL"
 },{
@@ -839,9 +839,9 @@
 },{
     "text": "CAGED"
 },{
-    "text": "CAGEY"
-},{
     "text": "CAGES"
+},{
+    "text": "CAGEY"
 },{
     "text": "CAIRO"
 },{
@@ -855,9 +855,9 @@
 },{
     "text": "CALLS"
 },{
-    "text": "CALMY"
-},{
     "text": "CALMS"
+},{
+    "text": "CALMY"
 },{
     "text": "CALVE"
 },{
@@ -865,9 +865,9 @@
 },{
     "text": "CAMEO"
 },{
-    "text": "CAMPY"
-},{
     "text": "CAMPS"
+},{
+    "text": "CAMPY"
 },{
     "text": "CANAL"
 },{
@@ -1015,9 +1015,9 @@
 },{
     "text": "CHEVY"
 },{
-    "text": "CHEWY"
-},{
     "text": "CHEWS"
+},{
+    "text": "CHEWY"
 },{
     "text": "CHICA"
 },{
@@ -1081,19 +1081,13 @@
 },{
     "text": "CHUTE"
 },{
-    "text": "CYCLE"
-},{
     "text": "CIDER"
 },{
     "text": "CIGAR"
 },{
     "text": "CINCH"
 },{
-    "text": "CYNIC"
-},{
     "text": "CIRCA"
-},{
-    "text": "CYSTS"
 },{
     "text": "CITED"
 },{
@@ -1106,8 +1100,6 @@
     "text": "CLADS"
 },{
     "text": "CLAIM"
-},{
-    "text": "CLAYS"
 },{
     "text": "CLAMP"
 },{
@@ -1128,6 +1120,8 @@
     "text": "CLAVE"
 },{
     "text": "CLAWS"
+},{
+    "text": "CLAYS"
 },{
     "text": "CLEAN"
 },{
@@ -1261,13 +1255,13 @@
 },{
     "text": "CORGI"
 },{
-    "text": "CORKY"
-},{
     "text": "CORKS"
 },{
-    "text": "CORNY"
+    "text": "CORKY"
 },{
     "text": "CORNS"
+},{
+    "text": "CORNY"
 },{
     "text": "COSTS"
 },{
@@ -1351,8 +1345,6 @@
 },{
     "text": "CRIMP"
 },{
-    "text": "CRYPT"
-},{
     "text": "CRISP"
 },{
     "text": "CROAK"
@@ -1385,6 +1377,8 @@
 },{
     "text": "CRUST"
 },{
+    "text": "CRYPT"
+},{
     "text": "CUBAN"
 },{
     "text": "CUBBY"
@@ -1407,9 +1401,9 @@
 },{
     "text": "CURES"
 },{
-    "text": "CURLY"
-},{
     "text": "CURLS"
+},{
+    "text": "CURLY"
 },{
     "text": "CURRY"
 },{
@@ -1424,6 +1418,12 @@
     "text": "CUSPS"
 },{
     "text": "CUTIE"
+},{
+    "text": "CYCLE"
+},{
+    "text": "CYNIC"
+},{
+    "text": "CYSTS"
 },{
     "text": "CZARS"
 },{
@@ -1491,17 +1491,17 @@
 },{
     "text": "DEBUG"
 },{
-    "text": "DECAY"
-},{
     "text": "DECAL"
 },{
     "text": "DECAP"
 },{
+    "text": "DECAY"
+},{
     "text": "DECKS"
 },{
-    "text": "DECOY"
-},{
     "text": "DECOR"
+},{
+    "text": "DECOY"
 },{
     "text": "DECRY"
 },{
@@ -1583,17 +1583,15 @@
 },{
     "text": "DICED"
 },{
-    "text": "DICEY"
-},{
     "text": "DICER"
 },{
     "text": "DICES"
 },{
+    "text": "DICEY"
+},{
     "text": "DIETS"
 },{
     "text": "DIGIT"
-},{
-    "text": "DYING"
 },{
     "text": "DIMER"
 },{
@@ -1607,11 +1605,11 @@
 },{
     "text": "DINES"
 },{
-    "text": "DINGY"
-},{
     "text": "DINGO"
 },{
     "text": "DINGS"
+},{
+    "text": "DINGY"
 },{
     "text": "DINKY"
 },{
@@ -1683,9 +1681,9 @@
 },{
     "text": "DOLED"
 },{
-    "text": "DOLLY"
-},{
     "text": "DOLLS"
+},{
+    "text": "DOLLY"
 },{
     "text": "DOLOR"
 },{
@@ -1727,11 +1725,11 @@
 },{
     "text": "DOUSE"
 },{
-    "text": "DOVEY"
-},{
     "text": "DOVEN"
 },{
     "text": "DOVES"
+},{
+    "text": "DOVEY"
 },{
     "text": "DOWDY"
 },{
@@ -1757,8 +1755,6 @@
 },{
     "text": "DRAIN"
 },{
-    "text": "DRAYS"
-},{
     "text": "DRAMA"
 },{
     "text": "DRANK"
@@ -1770,6 +1766,8 @@
     "text": "DRAWN"
 },{
     "text": "DRAWS"
+},{
+    "text": "DRAYS"
 },{
     "text": "DREAD"
 },{
@@ -1791,13 +1789,9 @@
 },{
     "text": "DRIER"
 },{
-    "text": "DRYER"
-},{
     "text": "DRIES"
 },{
     "text": "DRIFT"
-},{
-    "text": "DRYLY"
 },{
     "text": "DRILL"
 },{
@@ -1838,6 +1832,10 @@
     "text": "DRUNK"
 },{
     "text": "DRUZE"
+},{
+    "text": "DRYER"
+},{
+    "text": "DRYLY"
 },{
     "text": "DUCES"
 },{
@@ -1885,9 +1883,9 @@
 },{
     "text": "DUSKY"
 },{
-    "text": "DUSTY"
-},{
     "text": "DUSTS"
+},{
+    "text": "DUSTY"
 },{
     "text": "DUTCH"
 },{
@@ -1909,37 +1907,25 @@
 },{
     "text": "DWINE"
 },{
-    "text": "EABLY"
+    "text": "DYING"
 },{
     "text": "EAGER"
 },{
     "text": "EAGLE"
 },{
-    "text": "EAGRE"
-},{
-    "text": "EARED"
-},{
-    "text": "EARLE"
+    "text": "EARLS"
 },{
     "text": "EARLY"
 },{
-    "text": "EARLS"
-},{
     "text": "EARNS"
-},{
-    "text": "EARSH"
 },{
     "text": "EARTH"
 },{
     "text": "EASED"
 },{
-    "text": "EASEL"
-},{
     "text": "EASER"
 },{
     "text": "EASES"
-},{
-    "text": "EASTS"
 },{
     "text": "EATEN"
 },{
@@ -1953,57 +1939,13 @@
 },{
     "text": "EBBED"
 },{
-    "text": "EBBET"
-},{
-    "text": "EBLIS"
-},{
     "text": "EBONY"
-},{
-    "text": "EBONS"
-},{
-    "text": "ECART"
-},{
-    "text": "ECHAR"
-},{
-    "text": "ECHEA"
-},{
-    "text": "ECHED"
-},{
-    "text": "ECHES"
-},{
-    "text": "ECHIS"
-},{
-    "text": "ECHOS"
 },{
     "text": "ECIZE"
 },{
-    "text": "ECLAT"
-},{
-    "text": "ECOID"
-},{
-    "text": "ECOLE"
-},{
-    "text": "ECRUS"
-},{
-    "text": "ECTAD"
-},{
-    "text": "ECTAL"
-},{
-    "text": "EDANA"
-},{
-    "text": "EDDER"
-},{
-    "text": "EDDIC"
-},{
-    "text": "EDDIE"
-},{
     "text": "EDEMA"
 },{
-    "text": "EDGAR"
-},{
     "text": "EDGED"
-},{
-    "text": "EDGER"
 },{
     "text": "EDGES"
 },{
@@ -2011,75 +1953,27 @@
 },{
     "text": "EDIFY"
 },{
-    "text": "EDIYA"
-},{
-    "text": "EDILE"
-},{
-    "text": "EDITH"
-},{
     "text": "EDITS"
-},{
-    "text": "EDONI"
 },{
     "text": "EDUCE"
 },{
     "text": "EDUCT"
 },{
-    "text": "EDWIN"
-},{
-    "text": "EELER"
-},{
-    "text": "EEMIS"
-},{
     "text": "EERIE"
-},{
-    "text": "EETEN"
-},{
-    "text": "EFFET"
-},{
-    "text": "EFFIE"
-},{
-    "text": "EGADS"
-},{
-    "text": "EGERS"
-},{
-    "text": "EGEST"
 },{
     "text": "EGGED"
 },{
-    "text": "EGGER"
+    "text": "EGRET"
 },{
     "text": "EGYPT"
 },{
-    "text": "EGRET"
-},{
-    "text": "EYASS"
-},{
     "text": "EIDER"
 },{
-    "text": "EIDOS"
-},{
-    "text": "EYERS"
-},{
     "text": "EIGHT"
-},{
-    "text": "EYING"
-},{
-    "text": "EIKON"
-},{
-    "text": "EYRAS"
-},{
-    "text": "EYRES"
-},{
-    "text": "EYRIE"
-},{
-    "text": "EYRIR"
 },{
     "text": "EJECT"
 },{
     "text": "EJIDO"
-},{
-    "text": "EJUSD"
 },{
     "text": "EKING"
 },{
@@ -2097,27 +1991,7 @@
 },{
     "text": "ELEGY"
 },{
-    "text": "ELEMI"
-},{
-    "text": "ELFIN"
-},{
-    "text": "ELIAS"
-},{
-    "text": "ELIDE"
-},{
-    "text": "ELIHU"
-},{
-    "text": "ELIOT"
-},{
     "text": "ELITE"
-},{
-    "text": "ELIZA"
-},{
-    "text": "ELLEN"
-},{
-    "text": "ELMER"
-},{
-    "text": "ELOIN"
 },{
     "text": "ELOPE"
 },{
@@ -2125,17 +1999,11 @@
 },{
     "text": "ELUTE"
 },{
-    "text": "ELVER"
-},{
     "text": "ELVES"
 },{
     "text": "ELVIS"
 },{
     "text": "EMAIL"
-},{
-    "text": "EMBAY"
-},{
-    "text": "EMBAR"
 },{
     "text": "EMBED"
 },{
@@ -2147,37 +2015,17 @@
 },{
     "text": "EMCEE"
 },{
-    "text": "EMDEN"
-},{
-    "text": "EMEER"
-},{
-    "text": "EMEND"
-},{
     "text": "EMERY"
 },{
-    "text": "EMILY"
-},{
-    "text": "EMIRS"
-},{
     "text": "EMITS"
-},{
-    "text": "EMMER"
-},{
-    "text": "EMMET"
-},{
-    "text": "EMORY"
 },{
     "text": "EMOTE"
 },{
     "text": "EMPTY"
 },{
-    "text": "EMULS"
-},{
     "text": "ENACT"
 },{
     "text": "ENATE"
-},{
-    "text": "ENCYC"
 },{
     "text": "ENDED"
 },{
@@ -2191,55 +2039,27 @@
 },{
     "text": "ENEMY"
 },{
-    "text": "ENFIN"
-},{
-    "text": "ENGIN"
-},{
-    "text": "ENGLE"
-},{
     "text": "ENJOY"
 },{
     "text": "ENNUI"
 },{
     "text": "ENOCH"
 },{
-    "text": "ENOLS"
-},{
-    "text": "ENORM"
-},{
     "text": "ENROL"
-},{
-    "text": "ENSKY"
 },{
     "text": "ENSUE"
 },{
-    "text": "ENTAD"
-},{
-    "text": "ENTAL"
-},{
     "text": "ENTER"
 },{
-    "text": "ENTIA"
-},{
-    "text": "ENTOM"
-},{
     "text": "ENTRY"
-},{
-    "text": "ENURE"
-},{
-    "text": "ENVOI"
 },{
     "text": "ENVOY"
 },{
     "text": "EOSIN"
 },{
-    "text": "EPACT"
-},{
     "text": "EPEES"
 },{
     "text": "EPHAH"
-},{
-    "text": "EPHAS"
 },{
     "text": "EPHOD"
 },{
@@ -2247,123 +2067,41 @@
 },{
     "text": "EPICS"
 },{
-    "text": "EPIST"
-},{
     "text": "EPOCH"
 },{
     "text": "EPODE"
 },{
-    "text": "EPOXY"
-},{
     "text": "EPSOM"
-},{
-    "text": "EPULO"
 },{
     "text": "EQUAL"
 },{
-    "text": "EQUID"
-},{
     "text": "EQUIP"
-},{
-    "text": "EQUIV"
 },{
     "text": "ERASE"
 },{
-    "text": "ERATO"
-},{
     "text": "ERECT"
-},{
-    "text": "ERGOT"
-},{
-    "text": "ERICA"
-},{
-    "text": "ERIKA"
-},{
-    "text": "ERNES"
-},{
-    "text": "ERNIE"
-},{
-    "text": "ERNST"
 },{
     "text": "ERODE"
 },{
-    "text": "EROSE"
-},{
-    "text": "ERRED"
-},{
-    "text": "ERRON"
-},{
     "text": "ERROR"
-},{
-    "text": "ERSES"
-},{
-    "text": "ERUCT"
 },{
     "text": "ERUPT"
 },{
-    "text": "ERVIL"
-},{
-    "text": "ERWIN"
-},{
     "text": "ESKER"
-},{
-    "text": "ESPEC"
-},{
-    "text": "ESROG"
 },{
     "text": "ESSAY"
 },{
-    "text": "ESSES"
-},{
     "text": "ESSEX"
 },{
-    "text": "ESTAB"
-},{
-    "text": "ESTER"
-},{
-    "text": "ESTOC"
-},{
     "text": "ESTOP"
-},{
-    "text": "ETAPE"
-},{
-    "text": "ETHAL"
-},{
-    "text": "ETHAN"
 },{
     "text": "ETHER"
 },{
     "text": "ETHIC"
 },{
-    "text": "ETHYL"
-},{
     "text": "ETHOS"
 },{
-    "text": "ETYMA"
-},{
-    "text": "ETNAS"
-},{
-    "text": "ETROG"
-},{
-    "text": "ETUDE"
-},{
-    "text": "ETUIS"
-},{
-    "text": "ETWEE"
-},{
-    "text": "EULER"
-},{
     "text": "EUROS"
-},{
-    "text": "EURUS"
-},{
-    "text": "EUSOL"
-},{
-    "text": "EVANG"
-},{
-    "text": "EVANS"
-},{
-    "text": "EVASE"
 },{
     "text": "EVENS"
 },{
@@ -2371,21 +2109,13 @@
 },{
     "text": "EVERY"
 },{
-    "text": "EVERT"
-},{
     "text": "EVICT"
 },{
     "text": "EVILS"
 },{
-    "text": "EVITE"
-},{
     "text": "EVOKE"
 },{
     "text": "EWERY"
-},{
-    "text": "EWERS"
-},{
-    "text": "EWING"
 },{
     "text": "EXACT"
 },{
@@ -2395,27 +2125,17 @@
 },{
     "text": "EXCEL"
 },{
-    "text": "EXCUD"
-},{
     "text": "EXEAT"
-},{
-    "text": "EXECS"
 },{
     "text": "EXERT"
 },{
     "text": "EXILE"
-},{
-    "text": "EXINE"
 },{
     "text": "EXIST"
 },{
     "text": "EXITS"
 },{
     "text": "EXPEL"
-},{
-    "text": "EXPTL"
-},{
-    "text": "EXPWY"
 },{
     "text": "EXTOL"
 },{
@@ -2424,6 +2144,10 @@
     "text": "EXULT"
 },{
     "text": "EXURB"
+},{
+    "text": "EYRIE"
+},{
+    "text": "EYRIR"
 },{
     "text": "FABLE"
 },{
@@ -2435,43 +2159,19 @@
 },{
     "text": "FACET"
 },{
-    "text": "FACIA"
-},{
-    "text": "FACIT"
-},{
-    "text": "FACTO"
-},{
     "text": "FACTS"
-},{
-    "text": "FADDY"
 },{
     "text": "FADED"
 },{
     "text": "FADER"
 },{
-    "text": "FADGE"
-},{
-    "text": "FAENA"
-},{
-    "text": "FAERY"
-},{
-    "text": "FAFFY"
-},{
-    "text": "FAGGY"
-},{
-    "text": "FAGIN"
-},{
-    "text": "FAGOT"
-},{
-    "text": "FAYAL"
-},{
     "text": "FAILS"
 },{
     "text": "FAINT"
 },{
-    "text": "FAIRY"
-},{
     "text": "FAIRS"
+},{
+    "text": "FAIRY"
 },{
     "text": "FAITH"
 },{
@@ -2481,81 +2181,31 @@
 },{
     "text": "FAKES"
 },{
-    "text": "FAKIR"
-},{
-    "text": "FALDA"
-},{
-    "text": "FALLA"
-},{
     "text": "FALLS"
 },{
     "text": "FALSE"
 },{
-    "text": "FALUN"
-},{
     "text": "FAMED"
 },{
-    "text": "FAMES"
-},{
     "text": "FANCY"
-},{
-    "text": "FANES"
-},{
-    "text": "FANGO"
 },{
     "text": "FANGS"
 },{
     "text": "FANNY"
 },{
-    "text": "FANON"
-},{
-    "text": "FANOS"
-},{
-    "text": "FANTI"
-},{
-    "text": "FAQIR"
-},{
-    "text": "FARAD"
-},{
     "text": "FARCE"
-},{
-    "text": "FARCI"
-},{
-    "text": "FARCY"
-},{
-    "text": "FARDS"
 },{
     "text": "FARED"
 },{
-    "text": "FARER"
-},{
     "text": "FARES"
 },{
-    "text": "FARLE"
-},{
-    "text": "FARLS"
-},{
     "text": "FARMS"
-},{
-    "text": "FAROS"
-},{
-    "text": "FARSI"
-},{
-    "text": "FARTS"
-},{
-    "text": "FASTS"
 },{
     "text": "FATAL"
 },{
     "text": "FATED"
 },{
     "text": "FATES"
-},{
-    "text": "FATLY"
-},{
-    "text": "FATSO"
-},{
-    "text": "FATTY"
 },{
     "text": "FATWA"
 },{
@@ -2567,17 +2217,7 @@
 },{
     "text": "FAUNA"
 },{
-    "text": "FAUNS"
-},{
-    "text": "FAUST"
-},{
-    "text": "FAUVE"
-},{
     "text": "FAVOR"
-},{
-    "text": "FAVUS"
-},{
-    "text": "FAWNY"
 },{
     "text": "FAWNS"
 },{
@@ -2585,29 +2225,19 @@
 },{
     "text": "FAZED"
 },{
-    "text": "FAZES"
-},{
     "text": "FEARS"
 },{
     "text": "FEAST"
 },{
     "text": "FEATS"
 },{
-    "text": "FEAZE"
-},{
     "text": "FECAL"
 },{
     "text": "FECES"
 },{
-    "text": "FECIT"
-},{
     "text": "FEEDS"
 },{
     "text": "FEELS"
-},{
-    "text": "FEEZE"
-},{
-    "text": "FEYER"
 },{
     "text": "FEIGN"
 },{
@@ -2615,25 +2245,11 @@
 },{
     "text": "FEIST"
 },{
-    "text": "FELID"
-},{
-    "text": "FELIS"
-},{
-    "text": "FELIX"
-},{
     "text": "FELLA"
-},{
-    "text": "FELLY"
-},{
-    "text": "FELLS"
 },{
     "text": "FELON"
 },{
     "text": "FELTS"
-},{
-    "text": "FEMES"
-},{
-    "text": "FEMIC"
 },{
     "text": "FEMME"
 },{
@@ -2643,49 +2259,17 @@
 },{
     "text": "FENDS"
 },{
-    "text": "FENNY"
-},{
-    "text": "FEOFF"
-},{
     "text": "FERAL"
-},{
-    "text": "FERES"
-},{
-    "text": "FERIA"
-},{
-    "text": "FERLY"
-},{
-    "text": "FERNY"
 },{
     "text": "FERNS"
 },{
-    "text": "FERRI"
-},{
     "text": "FERRY"
-},{
-    "text": "FESSE"
-},{
-    "text": "FESTA"
-},{
-    "text": "FESTY"
 },{
     "text": "FETAL"
 },{
-    "text": "FETAS"
-},{
     "text": "FETCH"
 },{
-    "text": "FETED"
-},{
-    "text": "FETES"
-},{
-    "text": "FETID"
-},{
-    "text": "FETOR"
-},{
     "text": "FETUS"
-},{
-    "text": "FEUAR"
 },{
     "text": "FEUDS"
 },{
@@ -2693,35 +2277,9 @@
 },{
     "text": "FEWER"
 },{
-    "text": "FEZZY"
-},{
-    "text": "FIATS"
-},{
     "text": "FIBER"
 },{
-    "text": "FIBRE"
-},{
-    "text": "FIBRO"
-},{
-    "text": "FICES"
-},{
-    "text": "FYCES"
-},{
-    "text": "FICHE"
-},{
-    "text": "FICHU"
-},{
-    "text": "FICUS"
-},{
-    "text": "FIDEL"
-},{
-    "text": "FIDES"
-},{
     "text": "FIDGE"
-},{
-    "text": "FIDOS"
-},{
-    "text": "FIEFS"
 },{
     "text": "FIELD"
 },{
@@ -2729,25 +2287,13 @@
 },{
     "text": "FIERY"
 },{
-    "text": "FIFED"
-},{
     "text": "FIFER"
-},{
-    "text": "FIFES"
 },{
     "text": "FIFTH"
 },{
     "text": "FIFTY"
 },{
-    "text": "FIGGY"
-},{
     "text": "FIGHT"
-},{
-    "text": "FYKES"
-},{
-    "text": "FILAR"
-},{
-    "text": "FILCH"
 },{
     "text": "FILED"
 },{
@@ -2756,8 +2302,6 @@
     "text": "FILES"
 },{
     "text": "FILET"
-},{
-    "text": "FILLY"
 },{
     "text": "FILLS"
 },{
@@ -2777,47 +2321,17 @@
 },{
     "text": "FINER"
 },{
-    "text": "FINES"
-},{
-    "text": "FINIS"
-},{
-    "text": "FINKS"
-},{
-    "text": "FINNY"
-},{
-    "text": "FINNS"
-},{
-    "text": "FIORD"
-},{
     "text": "FIRED"
-},{
-    "text": "FIRER"
 },{
     "text": "FIRES"
 },{
     "text": "FIRMS"
 },{
-    "text": "FIRNS"
-},{
-    "text": "FIRRY"
-},{
     "text": "FIRST"
-},{
-    "text": "FIRTH"
-},{
-    "text": "FISCS"
 },{
     "text": "FISHY"
 },{
     "text": "FISTS"
-},{
-    "text": "FITCH"
-},{
-    "text": "FITLY"
-},{
-    "text": "FYTTE"
-},{
-    "text": "FIVER"
 },{
     "text": "FIVES"
 },{
@@ -2831,13 +2345,7 @@
 },{
     "text": "FIZZY"
 },{
-    "text": "FJELD"
-},{
     "text": "FJORD"
-},{
-    "text": "FLABS"
-},{
-    "text": "FLACK"
 },{
     "text": "FLAGS"
 },{
@@ -2845,21 +2353,13 @@
 },{
     "text": "FLAIR"
 },{
-    "text": "FLAYS"
-},{
     "text": "FLAKE"
 },{
     "text": "FLAKY"
 },{
     "text": "FLAME"
 },{
-    "text": "FLAMY"
-},{
-    "text": "FLAMS"
-},{
     "text": "FLANK"
-},{
-    "text": "FLANS"
 },{
     "text": "FLAPS"
 },{
@@ -2871,49 +2371,23 @@
 },{
     "text": "FLATS"
 },{
-    "text": "FLAVO"
-},{
-    "text": "FLAWY"
-},{
     "text": "FLAWS"
 },{
     "text": "FLAXY"
 },{
-    "text": "FLDXT"
-},{
-    "text": "FLEAM"
+    "text": "FLAYS"
 },{
     "text": "FLEAS"
 },{
     "text": "FLECK"
 },{
-    "text": "FLEER"
-},{
     "text": "FLEES"
 },{
     "text": "FLEET"
 },{
-    "text": "FLEYS"
-},{
     "text": "FLESH"
 },{
-    "text": "FLEUR"
-},{
-    "text": "FLEWS"
-},{
-    "text": "FLEXO"
-},{
-    "text": "FLYBY"
-},{
     "text": "FLICK"
-},{
-    "text": "FLICS"
-},{
-    "text": "FLIED"
-},{
-    "text": "FLIER"
-},{
-    "text": "FLYER"
 },{
     "text": "FLIES"
 },{
@@ -2925,25 +2399,9 @@
 },{
     "text": "FLIRT"
 },{
-    "text": "FLITE"
-},{
-    "text": "FLYTE"
-},{
-    "text": "FLITS"
-},{
     "text": "FLOAT"
 },{
     "text": "FLOCK"
-},{
-    "text": "FLOCS"
-},{
-    "text": "FLOES"
-},{
-    "text": "FLOGS"
-},{
-    "text": "FLOYD"
-},{
-    "text": "FLONG"
 },{
     "text": "FLOOD"
 },{
@@ -2952,8 +2410,6 @@
     "text": "FLOPS"
 },{
     "text": "FLORA"
-},{
-    "text": "FLORY"
 },{
     "text": "FLOSS"
 },{
@@ -2967,10 +2423,6 @@
 },{
     "text": "FLUBS"
 },{
-    "text": "FLUEY"
-},{
-    "text": "FLUES"
-},{
     "text": "FLUFF"
 },{
     "text": "FLUID"
@@ -2981,67 +2433,43 @@
 },{
     "text": "FLUME"
 },{
-    "text": "FLUMP"
-},{
     "text": "FLUNG"
 },{
     "text": "FLUNK"
-},{
-    "text": "FLUOR"
 },{
     "text": "FLUSH"
 },{
     "text": "FLUTE"
 },{
-    "text": "FLUTY"
+    "text": "FLYBY"
+},{
+    "text": "FLYER"
 },{
     "text": "FOALS"
 },{
-    "text": "FOAMY"
-},{
     "text": "FOAMS"
+},{
+    "text": "FOAMY"
 },{
     "text": "FOCAL"
 },{
     "text": "FOCUS"
 },{
-    "text": "FOEHN"
-},{
-    "text": "FOGEY"
-},{
     "text": "FOGGY"
 },{
-    "text": "FOHNS"
-},{
-    "text": "FOYER"
-},{
     "text": "FOILS"
-},{
-    "text": "FOINS"
-},{
-    "text": "FOISM"
 },{
     "text": "FOIST"
 },{
     "text": "FOLDS"
 },{
-    "text": "FOLIC"
-},{
-    "text": "FOLIE"
-},{
-    "text": "FOLIO"
+    "text": "FOLKS"
 },{
     "text": "FOLKY"
 },{
-    "text": "FOLKS"
-},{
     "text": "FOLLY"
 },{
-    "text": "FOMES"
-},{
     "text": "FONDS"
-},{
-    "text": "FONDU"
 },{
     "text": "FONTS"
 },{
@@ -3049,41 +2477,17 @@
 },{
     "text": "FOOLS"
 },{
-    "text": "FOOTY"
-},{
     "text": "FOOTS"
 },{
     "text": "FORAY"
-},{
-    "text": "FORAM"
-},{
-    "text": "FORBY"
 },{
     "text": "FORBS"
 },{
     "text": "FORCE"
 },{
-    "text": "FORDO"
-},{
-    "text": "FORDS"
-},{
-    "text": "FOREL"
-},{
-    "text": "FORES"
-},{
-    "text": "FOREX"
-},{
     "text": "FORGE"
 },{
-    "text": "FORGO"
-},{
-    "text": "FORKY"
-},{
     "text": "FORKS"
-},{
-    "text": "FORMA"
-},{
-    "text": "FORME"
 },{
     "text": "FORMS"
 },{
@@ -3091,15 +2495,13 @@
 },{
     "text": "FORTH"
 },{
-    "text": "FORTY"
-},{
     "text": "FORTS"
+},{
+    "text": "FORTY"
 },{
     "text": "FORUM"
 },{
     "text": "FOSSA"
-},{
-    "text": "FOSSE"
 },{
     "text": "FOULS"
 },{
@@ -3109,17 +2511,13 @@
 },{
     "text": "FOURS"
 },{
-    "text": "FOVEA"
-},{
-    "text": "FOWLS"
-},{
     "text": "FOXED"
 },{
     "text": "FOXES"
 },{
     "text": "FOXIE"
 },{
-    "text": "FPSPS"
+    "text": "FOYER"
 },{
     "text": "FRACK"
 },{
@@ -3127,47 +2525,17 @@
 },{
     "text": "FRAIL"
 },{
-    "text": "FRAYN"
-},{
-    "text": "FRAYS"
-},{
     "text": "FRAME"
-},{
-    "text": "FRANC"
-},{
-    "text": "FRANK"
-},{
-    "text": "FRANZ"
-},{
-    "text": "FRAPE"
-},{
-    "text": "FRAPS"
 },{
     "text": "FRASS"
 },{
-    "text": "FRATS"
-},{
     "text": "FRAUD"
 },{
-    "text": "FRAUS"
+    "text": "FRAYS"
 },{
     "text": "FREAK"
 },{
     "text": "FREED"
-},{
-    "text": "FREER"
-},{
-    "text": "FREES"
-},{
-    "text": "FREYA"
-},{
-    "text": "FREMD"
-},{
-    "text": "FRENA"
-},{
-    "text": "FREON"
-},{
-    "text": "FRERE"
 },{
     "text": "FRESH"
 },{
@@ -3175,51 +2543,21 @@
 },{
     "text": "FRETS"
 },{
-    "text": "FREUD"
-},{
     "text": "FRIAR"
 },{
     "text": "FRIED"
 },{
-    "text": "FRIER"
-},{
-    "text": "FRYER"
-},{
     "text": "FRIES"
-},{
-    "text": "FRIGS"
-},{
-    "text": "FRILL"
-},{
-    "text": "FRISE"
 },{
     "text": "FRISK"
 },{
-    "text": "FRITH"
-},{
-    "text": "FRITS"
-},{
-    "text": "FRITT"
-},{
-    "text": "FRITZ"
-},{
     "text": "FRIZZ"
-},{
-    "text": "FROCK"
-},{
-    "text": "FROES"
 },{
     "text": "FROGS"
 },{
     "text": "FROND"
 },{
-    "text": "FRONS"
-},{
     "text": "FRONT"
-},{
-    "text": "FRORE"
-},{
-    "text": "FROSH"
 },{
     "text": "FROST"
 },{
@@ -3227,23 +2565,11 @@
 },{
     "text": "FROWN"
 },{
-    "text": "FROWS"
-},{
     "text": "FROZE"
-},{
-    "text": "FRUGS"
 },{
     "text": "FRUIT"
 },{
-    "text": "FRUMP"
-},{
-    "text": "FUAGE"
-},{
-    "text": "FUBSY"
-},{
-    "text": "FUCKS"
-},{
-    "text": "FUCUS"
+    "text": "FRYER"
 },{
     "text": "FUDGE"
 },{
@@ -3251,51 +2577,19 @@
 },{
     "text": "FUGAL"
 },{
-    "text": "FUGIO"
-},{
-    "text": "FUGIT"
-},{
-    "text": "FUGLE"
-},{
     "text": "FUGUE"
-},{
-    "text": "FUJIS"
-},{
-    "text": "FULAH"
-},{
-    "text": "FULLY"
-},{
-    "text": "FULLS"
 },{
     "text": "FUMED"
 },{
-    "text": "FUMER"
-},{
     "text": "FUMES"
-},{
-    "text": "FUMET"
-},{
-    "text": "FUNDI"
 },{
     "text": "FUNDS"
 },{
     "text": "FUNGI"
 },{
-    "text": "FUNGO"
-},{
-    "text": "FUNIC"
-},{
-    "text": "FUNIS"
-},{
     "text": "FUNKY"
 },{
-    "text": "FUNKS"
-},{
     "text": "FUNNY"
-},{
-    "text": "FURAN"
-},{
-    "text": "FURCA"
 },{
     "text": "FURLS"
 },{
@@ -3305,99 +2599,37 @@
 },{
     "text": "FURZE"
 },{
-    "text": "FURZY"
-},{
     "text": "FUSED"
-},{
-    "text": "FUSEE"
 },{
     "text": "FUSES"
 },{
-    "text": "FUSIL"
-},{
     "text": "FUSSY"
-},{
-    "text": "FUZED"
-},{
-    "text": "FUZEE"
-},{
-    "text": "FUZES"
 },{
     "text": "FUZZY"
 },{
-    "text": "GABBY"
-},{
     "text": "GABLE"
-},{
-    "text": "GABON"
-},{
-    "text": "GADDI"
-},{
-    "text": "GADID"
 },{
     "text": "GAELS"
 },{
     "text": "GAFFE"
 },{
-    "text": "GAFFS"
-},{
-    "text": "GAGED"
-},{
-    "text": "GAGER"
-},{
-    "text": "GAGES"
-},{
-    "text": "GAYAL"
-},{
-    "text": "GAYER"
-},{
-    "text": "GAILY"
-},{
-    "text": "GAYLY"
-},{
     "text": "GAINS"
-},{
-    "text": "GAITS"
-},{
-    "text": "GAIUS"
-},{
-    "text": "GALAH"
-},{
-    "text": "GALAS"
-},{
-    "text": "GALAX"
-},{
-    "text": "GALEA"
-},{
-    "text": "GALEN"
 },{
     "text": "GALES"
 },{
-    "text": "GALET"
-},{
     "text": "GALLA"
-},{
-    "text": "GALLY"
 },{
     "text": "GALLS"
 },{
+    "text": "GALLY"
+},{
     "text": "GALOP"
 },{
-    "text": "GALUT"
-},{
-    "text": "GALVO"
-},{
-    "text": "GAMBA"
-},{
     "text": "GAMED"
-},{
-    "text": "GAMEY"
 },{
     "text": "GAMER"
 },{
     "text": "GAMES"
-},{
-    "text": "GAMIC"
 },{
     "text": "GAMIN"
 },{
@@ -3409,31 +2641,11 @@
 },{
     "text": "GAMUT"
 },{
-    "text": "GANDA"
-},{
-    "text": "GANEF"
-},{
     "text": "GANGS"
-},{
-    "text": "GANJA"
-},{
-    "text": "GANOF"
-},{
-    "text": "GAOLS"
 },{
     "text": "GAPED"
 },{
-    "text": "GAPER"
-},{
-    "text": "GAPES"
-},{
-    "text": "GARBO"
-},{
     "text": "GARBS"
-},{
-    "text": "GARNI"
-},{
-    "text": "GARTH"
 },{
     "text": "GASES"
 },{
@@ -3445,39 +2657,19 @@
 },{
     "text": "GATED"
 },{
-    "text": "GATER"
-},{
     "text": "GATES"
-},{
-    "text": "GATHA"
 },{
     "text": "GATOR"
 },{
     "text": "GAUDY"
 },{
-    "text": "GAUDS"
-},{
     "text": "GAUGE"
 },{
-    "text": "GAULS"
-},{
-    "text": "GAUMS"
-},{
     "text": "GAUNT"
-},{
-    "text": "GAURS"
-},{
-    "text": "GAUSS"
 },{
     "text": "GAUZE"
 },{
     "text": "GAVEL"
-},{
-    "text": "GAVOT"
-},{
-    "text": "GAWKY"
-},{
-    "text": "GAWKS"
 },{
     "text": "GAZED"
 },{
@@ -3489,63 +2681,23 @@
 },{
     "text": "GECKO"
 },{
-    "text": "GEDDS"
-},{
     "text": "GEEKS"
 },{
     "text": "GEESE"
 },{
-    "text": "GEEST"
-},{
     "text": "GELDS"
 },{
-    "text": "GELEE"
-},{
     "text": "GELID"
-},{
-    "text": "GELTS"
-},{
-    "text": "GEMMA"
-},{
-    "text": "GEMMY"
-},{
-    "text": "GEMOT"
-},{
-    "text": "GEMSE"
-},{
-    "text": "GENAE"
 },{
     "text": "GENAL"
 },{
     "text": "GENES"
 },{
-    "text": "GENET"
-},{
-    "text": "GENIC"
-},{
     "text": "GENIE"
-},{
-    "text": "GENII"
-},{
-    "text": "GENIN"
-},{
-    "text": "GENIP"
-},{
-    "text": "GENYS"
-},{
-    "text": "GENIT"
-},{
-    "text": "GENOA"
-},{
-    "text": "GENOM"
 },{
     "text": "GENRE"
 },{
-    "text": "GENRO"
-},{
     "text": "GENTS"
-},{
-    "text": "GENUA"
 },{
     "text": "GENUS"
 },{
@@ -3553,41 +2705,13 @@
 },{
     "text": "GEOID"
 },{
-    "text": "GERAH"
-},{
-    "text": "GERMY"
-},{
     "text": "GERMS"
 },{
-    "text": "GESSO"
-},{
-    "text": "GESTE"
-},{
-    "text": "GESTS"
-},{
-    "text": "GETAS"
-},{
     "text": "GETUP"
-},{
-    "text": "GEUMS"
-},{
-    "text": "GHAIN"
-},{
-    "text": "GHANA"
-},{
-    "text": "GHAST"
-},{
-    "text": "GHATS"
-},{
-    "text": "GHAUT"
 },{
     "text": "GHAZI"
 },{
     "text": "GHEES"
-},{
-    "text": "GHENT"
-},{
-    "text": "GHYLL"
 },{
     "text": "GHOST"
 },{
@@ -3597,99 +2721,27 @@
 },{
     "text": "GIBED"
 },{
-    "text": "GYBED"
-},{
     "text": "GIBER"
 },{
     "text": "GIBES"
-},{
-    "text": "GIBLI"
-},{
-    "text": "GIBUS"
 },{
     "text": "GIDDY"
 },{
     "text": "GIFTS"
 },{
-    "text": "GYGES"
-},{
-    "text": "GIGOT"
-},{
-    "text": "GILDS"
-},{
-    "text": "GILES"
-},{
     "text": "GILET"
-},{
-    "text": "GILLY"
 },{
     "text": "GILLS"
 },{
-    "text": "GILTS"
-},{
-    "text": "GIMEL"
-},{
-    "text": "GYMEL"
-},{
-    "text": "GIMME"
+    "text": "GIMPS"
 },{
     "text": "GIMPY"
 },{
-    "text": "GIMPS"
-},{
-    "text": "GINEP"
-},{
-    "text": "GINKS"
-},{
-    "text": "GINNY"
-},{
-    "text": "GINZO"
-},{
-    "text": "GIPON"
-},{
-    "text": "GIPPY"
-},{
-    "text": "GYPPO"
-},{
-    "text": "GIPSY"
-},{
-    "text": "GYPSY"
-},{
-    "text": "GYRAL"
-},{
     "text": "GIRDS"
-},{
-    "text": "GYRES"
-},{
-    "text": "GIRLY"
 },{
     "text": "GIRLS"
 },{
-    "text": "GIRNS"
-},{
-    "text": "GIRON"
-},{
-    "text": "GYRON"
-},{
-    "text": "GIROS"
-},{
-    "text": "GYROS"
-},{
-    "text": "GIRSH"
-},{
-    "text": "GIRTH"
-},{
-    "text": "GYRUS"
-},{
-    "text": "GISMO"
-},{
-    "text": "GISTS"
-},{
-    "text": "GITIM"
-},{
-    "text": "GYVED"
-},{
-    "text": "GIVEY"
+    "text": "GIRLY"
 },{
     "text": "GIVEN"
 },{
@@ -3697,31 +2749,15 @@
 },{
     "text": "GIVES"
 },{
-    "text": "GYVES"
-},{
     "text": "GIZMO"
-},{
-    "text": "GLACE"
-},{
-    "text": "GLADE"
-},{
-    "text": "GLADS"
 },{
     "text": "GLAIR"
 },{
     "text": "GLAND"
 },{
-    "text": "GLANS"
-},{
     "text": "GLARE"
 },{
-    "text": "GLARY"
-},{
     "text": "GLASS"
-},{
-    "text": "GLAUR"
-},{
-    "text": "GLAVE"
 },{
     "text": "GLAZE"
 },{
@@ -3731,35 +2767,9 @@
 },{
     "text": "GLEBA"
 },{
-    "text": "GLEBE"
-},{
-    "text": "GLEDE"
-},{
-    "text": "GLEED"
-},{
-    "text": "GLEEK"
-},{
     "text": "GLEES"
 },{
-    "text": "GLEET"
-},{
-    "text": "GLEYS"
-},{
-    "text": "GLENN"
-},{
-    "text": "GLENS"
-},{
-    "text": "GLIAL"
-},{
     "text": "GLIDE"
-},{
-    "text": "GLIMS"
-},{
-    "text": "GLYNN"
-},{
-    "text": "GLINT"
-},{
-    "text": "GLYPH"
 },{
     "text": "GLOAM"
 },{
@@ -3769,49 +2779,27 @@
 },{
     "text": "GLOBS"
 },{
-    "text": "GLOGG"
-},{
-    "text": "GLOMI"
-},{
     "text": "GLOMS"
 },{
     "text": "GLOOM"
-},{
-    "text": "GLOPS"
 },{
     "text": "GLORY"
 },{
     "text": "GLOSS"
 },{
-    "text": "GLOUT"
-},{
     "text": "GLOVE"
 },{
     "text": "GLOWS"
 },{
-    "text": "GLOZE"
-},{
-    "text": "GLUCK"
-},{
     "text": "GLUED"
-},{
-    "text": "GLUEY"
-},{
-    "text": "GLUER"
 },{
     "text": "GLUES"
 },{
     "text": "GLUME"
 },{
-    "text": "GLUON"
-},{
-    "text": "GLUTS"
+    "text": "GLYPH"
 },{
     "text": "GNARL"
-},{
-    "text": "GNARR"
-},{
-    "text": "GNARS"
 },{
     "text": "GNASH"
 },{
@@ -3827,135 +2815,47 @@
 },{
     "text": "GOATS"
 },{
-    "text": "GOBAN"
-},{
-    "text": "GOBBY"
-},{
-    "text": "GOBOS"
-},{
-    "text": "GODET"
-},{
     "text": "GODLY"
-},{
-    "text": "GOERS"
-},{
-    "text": "GOFER"
-},{
-    "text": "GOGGA"
-},{
-    "text": "GOGOS"
-},{
-    "text": "GOYIM"
 },{
     "text": "GOING"
 },{
-    "text": "GOLDI"
-},{
-    "text": "GOLDS"
-},{
-    "text": "GOLEM"
-},{
     "text": "GOLFS"
-},{
-    "text": "GOLGI"
-},{
-    "text": "GOLLY"
-},{
-    "text": "GOMBO"
-},{
-    "text": "GOMER"
-},{
-    "text": "GONAD"
-},{
-    "text": "GONDI"
 },{
     "text": "GONER"
 },{
     "text": "GONGS"
 },{
-    "text": "GONIF"
-},{
-    "text": "GONYS"
-},{
-    "text": "GONNA"
-},{
-    "text": "GONNE"
-},{
-    "text": "GONOF"
-},{
-    "text": "GONZO"
-},{
     "text": "GOODY"
-},{
-    "text": "GOOEY"
-},{
-    "text": "GOOFY"
 },{
     "text": "GOOFS"
 },{
-    "text": "GOOKS"
-},{
-    "text": "GOONY"
+    "text": "GOOFY"
 },{
     "text": "GOONS"
 },{
     "text": "GOOPY"
 },{
-    "text": "GOOPS"
-},{
     "text": "GOOSE"
-},{
-    "text": "GOOSY"
-},{
-    "text": "GOPAK"
 },{
     "text": "GORAL"
 },{
     "text": "GORED"
 },{
-    "text": "GORES"
-},{
     "text": "GORGE"
-},{
-    "text": "GORKI"
 },{
     "text": "GORSE"
 },{
-    "text": "GOTHA"
-},{
-    "text": "GOTHS"
-},{
-    "text": "GOTRA"
-},{
-    "text": "GOTTA"
-},{
     "text": "GOUDA"
-},{
-    "text": "GOUDY"
 },{
     "text": "GOUGE"
 },{
     "text": "GOURD"
 },{
-    "text": "GOUTY"
-},{
-    "text": "GOUTS"
-},{
-    "text": "GOWAN"
-},{
-    "text": "GOWDS"
-},{
-    "text": "GOWKS"
-},{
     "text": "GOWNS"
-},{
-    "text": "GRABS"
 },{
     "text": "GRACE"
 },{
     "text": "GRADE"
-},{
-    "text": "GRADS"
 },{
     "text": "GRAFT"
 },{
@@ -3963,19 +2863,9 @@
 },{
     "text": "GRAIN"
 },{
-    "text": "GRAYS"
-},{
-    "text": "GRAMA"
-},{
-    "text": "GRAMP"
-},{
     "text": "GRAMS"
 },{
-    "text": "GRANA"
-},{
     "text": "GRAND"
-},{
-    "text": "GRANO"
 },{
     "text": "GRANT"
 },{
@@ -3983,13 +2873,9 @@
 },{
     "text": "GRAPH"
 },{
-    "text": "GRAPY"
-},{
     "text": "GRASP"
 },{
     "text": "GRASS"
-},{
-    "text": "GRATA"
 },{
     "text": "GRATE"
 },{
@@ -4001,95 +2887,41 @@
 },{
     "text": "GREAT"
 },{
-    "text": "GREBE"
-},{
-    "text": "GRECO"
-},{
     "text": "GREED"
 },{
     "text": "GREEK"
 },{
     "text": "GREEN"
 },{
-    "text": "GREES"
-},{
     "text": "GREET"
-},{
-    "text": "GREGG"
-},{
-    "text": "GREGO"
-},{
-    "text": "GREYS"
-},{
-    "text": "GRETA"
-},{
-    "text": "GRICE"
-},{
-    "text": "GRIDE"
 },{
     "text": "GRIDS"
 },{
     "text": "GRIEF"
 },{
-    "text": "GRIFF"
-},{
     "text": "GRIFT"
-},{
-    "text": "GRIGS"
-},{
-    "text": "GRIKE"
 },{
     "text": "GRILL"
 },{
     "text": "GRIME"
 },{
-    "text": "GRIMY"
-},{
-    "text": "GRIMM"
-},{
     "text": "GRIND"
 },{
     "text": "GRINS"
 },{
-    "text": "GRIOT"
-},{
     "text": "GRIPE"
 },{
-    "text": "GRIPY"
-},{
     "text": "GRIPS"
-},{
-    "text": "GRIPT"
-},{
-    "text": "GRIST"
-},{
-    "text": "GRITH"
 },{
     "text": "GRITS"
 },{
     "text": "GROAN"
 },{
-    "text": "GROAT"
-},{
-    "text": "GROGS"
-},{
     "text": "GROIN"
-},{
-    "text": "GROMA"
 },{
     "text": "GROOM"
 },{
-    "text": "GROOT"
-},{
-    "text": "GROPE"
-},{
     "text": "GROSS"
-},{
-    "text": "GROSZ"
-},{
-    "text": "GROTE"
-},{
-    "text": "GROTS"
 },{
     "text": "GROUP"
 },{
@@ -4103,307 +2935,103 @@
 },{
     "text": "GROWS"
 },{
-    "text": "GRUBS"
-},{
     "text": "GRUEL"
-},{
-    "text": "GRUES"
-},{
-    "text": "GRUFF"
-},{
-    "text": "GRUIS"
-},{
-    "text": "GRUME"
-},{
-    "text": "GRUMP"
 },{
     "text": "GRUNT"
 },{
-    "text": "GRUSH"
-},{
-    "text": "GUACO"
-},{
-    "text": "GUANO"
-},{
-    "text": "GUANS"
-},{
     "text": "GUARD"
 },{
-    "text": "GUARS"
-},{
     "text": "GUAVA"
-},{
-    "text": "GUCKS"
-},{
-    "text": "GUDES"
-},{
-    "text": "GUELF"
 },{
     "text": "GUESS"
 },{
     "text": "GUEST"
 },{
-    "text": "GUFFS"
-},{
     "text": "GUIDE"
-},{
-    "text": "GUIDO"
-},{
-    "text": "GUYED"
-},{
-    "text": "GUIGE"
 },{
     "text": "GUILD"
 },{
     "text": "GUILT"
 },{
-    "text": "GUYOT"
-},{
-    "text": "GUIRO"
-},{
     "text": "GUISE"
 },{
-    "text": "GULAE"
-},{
     "text": "GULAR"
-},{
-    "text": "GULAS"
 },{
     "text": "GULCH"
 },{
     "text": "GULES"
 },{
-    "text": "GULFY"
-},{
     "text": "GULFS"
 },{
-    "text": "GULLY"
-},{
     "text": "GULLS"
-},{
-    "text": "GULPY"
 },{
     "text": "GULPS"
 },{
     "text": "GUMBO"
 },{
-    "text": "GUMMA"
-},{
     "text": "GUMMY"
-},{
-    "text": "GUNDA"
-},{
-    "text": "GUNDI"
-},{
-    "text": "GUNGE"
-},{
-    "text": "GUNKY"
-},{
-    "text": "GUNKS"
-},{
-    "text": "GUNNY"
-},{
-    "text": "GUPPY"
 },{
     "text": "GURGE"
 },{
-    "text": "GURRY"
-},{
-    "text": "GURSH"
-},{
     "text": "GURUS"
-},{
-    "text": "GUSHY"
-},{
-    "text": "GUSSY"
-},{
-    "text": "GUSTY"
 },{
     "text": "GUSTO"
 },{
     "text": "GUSTS"
 },{
+    "text": "GUSTY"
+},{
     "text": "GUTSY"
 },{
-    "text": "GUTTA"
+    "text": "GUYOT"
 },{
-    "text": "GUTTY"
+    "text": "GYPSY"
 },{
-    "text": "GWINE"
+    "text": "GYRAL"
 },{
-    "text": "HAAFS"
-},{
-    "text": "HAARS"
+    "text": "GYROS"
 },{
     "text": "HABIT"
 },{
-    "text": "HACEK"
-},{
     "text": "HACKS"
 },{
-    "text": "HADAL"
-},{
-    "text": "HADED"
-},{
     "text": "HADES"
-},{
-    "text": "HADJI"
-},{
-    "text": "HADNT"
-},{
-    "text": "HADST"
-},{
-    "text": "HAETS"
-},{
-    "text": "HAFIZ"
-},{
-    "text": "HAFTS"
-},{
-    "text": "HAGAR"
-},{
-    "text": "HAGIA"
-},{
-    "text": "HAGUE"
-},{
-    "text": "HAICK"
-},{
-    "text": "HAIDA"
-},{
-    "text": "HAYDN"
-},{
-    "text": "HAYED"
-},{
-    "text": "HAYEY"
-},{
-    "text": "HAYES"
-},{
-    "text": "HAIKS"
 },{
     "text": "HAIKU"
 },{
     "text": "HAILS"
 },{
-    "text": "HAIRY"
-},{
     "text": "HAIRS"
 },{
-    "text": "HAJIS"
-},{
-    "text": "HAJJI"
-},{
-    "text": "HAKAM"
-},{
-    "text": "HAKEA"
-},{
-    "text": "HAKES"
-},{
-    "text": "HAKIM"
-},{
-    "text": "HAKKA"
+    "text": "HAIRY"
 },{
     "text": "HALAL"
 },{
-    "text": "HALAS"
-},{
-    "text": "HALED"
-},{
-    "text": "HALER"
-},{
-    "text": "HALES"
-},{
-    "text": "HALFY"
-},{
-    "text": "HALLO"
-},{
     "text": "HALLS"
-},{
-    "text": "HALMA"
-},{
-    "text": "HALMS"
 },{
     "text": "HALOS"
 },{
     "text": "HALTS"
 },{
-    "text": "HALVA"
-},{
     "text": "HALVE"
-},{
-    "text": "HAMAL"
-},{
-    "text": "HAMAN"
-},{
-    "text": "HAMES"
-},{
-    "text": "HAMMY"
-},{
-    "text": "HAMZA"
-},{
-    "text": "HANCE"
-},{
-    "text": "HANDY"
 },{
     "text": "HANDS"
 },{
+    "text": "HANDY"
+},{
     "text": "HANGS"
-},{
-    "text": "HANKY"
-},{
-    "text": "HANKS"
-},{
-    "text": "HANNA"
-},{
-    "text": "HANSA"
-},{
-    "text": "HANSE"
-},{
-    "text": "HANTS"
-},{
-    "text": "HAOLE"
-},{
-    "text": "HAOMA"
-},{
-    "text": "HAORI"
-},{
-    "text": "HAPLY"
 },{
     "text": "HAPPY"
 },{
-    "text": "HARAM"
-},{
     "text": "HARDY"
-},{
-    "text": "HARDS"
-},{
-    "text": "HARED"
-},{
-    "text": "HAREM"
 },{
     "text": "HARES"
 },{
-    "text": "HARIM"
-},{
-    "text": "HARKS"
-},{
-    "text": "HARMS"
+    "text": "HARPS"
 },{
     "text": "HARPY"
 },{
-    "text": "HARPS"
-},{
-    "text": "HARRY"
-},{
     "text": "HARSH"
-},{
-    "text": "HARTS"
-},{
-    "text": "HASAN"
-},{
-    "text": "HASID"
-},{
-    "text": "HASNT"
-},{
-    "text": "HASPS"
 },{
     "text": "HASTE"
 },{
@@ -4417,10 +3045,6 @@
 },{
     "text": "HATES"
 },{
-    "text": "HATTI"
-},{
-    "text": "HATTY"
-},{
     "text": "HAUGH"
 },{
     "text": "HAULM"
@@ -4429,17 +3053,7 @@
 },{
     "text": "HAUNT"
 },{
-    "text": "HAUSA"
-},{
-    "text": "HAUST"
-},{
-    "text": "HAUTE"
-},{
-    "text": "HAVEL"
-},{
     "text": "HAVEN"
-},{
-    "text": "HAVER"
 },{
     "text": "HAVOC"
 },{
@@ -4447,27 +3061,15 @@
 },{
     "text": "HAWKS"
 },{
-    "text": "HAWSE"
-},{
-    "text": "HAZAN"
-},{
     "text": "HAZED"
 },{
     "text": "HAZEL"
 },{
-    "text": "HAZER"
-},{
-    "text": "HAZES"
-},{
-    "text": "HDQRS"
+    "text": "HEADS"
 },{
     "text": "HEADY"
 },{
-    "text": "HEADS"
-},{
     "text": "HEALS"
-},{
-    "text": "HEAPY"
 },{
     "text": "HEAPS"
 },{
@@ -4485,27 +3087,15 @@
 },{
     "text": "HEAVY"
 },{
-    "text": "HECHT"
-},{
-    "text": "HECKS"
-},{
-    "text": "HEDER"
-},{
     "text": "HEDGE"
-},{
-    "text": "HEDGY"
 },{
     "text": "HEEDS"
 },{
     "text": "HEELS"
 },{
-    "text": "HEFTY"
-},{
     "text": "HEFTS"
 },{
-    "text": "HEIDI"
-},{
-    "text": "HEIGH"
+    "text": "HEFTY"
 },{
     "text": "HEINZ"
 },{
@@ -4513,127 +3103,29 @@
 },{
     "text": "HEIST"
 },{
-    "text": "HELAS"
-},{
-    "text": "HELEN"
-},{
-    "text": "HELIO"
-},{
     "text": "HELIX"
 },{
     "text": "HELLO"
 },{
-    "text": "HELLS"
-},{
     "text": "HELMS"
 },{
-    "text": "HELOT"
-},{
     "text": "HELPS"
-},{
-    "text": "HELVE"
-},{
-    "text": "HEMAL"
-},{
-    "text": "HEMAN"
-},{
-    "text": "HEMES"
-},{
-    "text": "HEMIC"
-},{
-    "text": "HEMIN"
-},{
-    "text": "HEMPY"
-},{
-    "text": "HEMPS"
 },{
     "text": "HENCE"
 },{
     "text": "HENGE"
 },{
-    "text": "HENNA"
-},{
-    "text": "HENRY"
-},{
-    "text": "HENTS"
-},{
-    "text": "HEPAR"
-},{
-    "text": "HERAT"
-},{
-    "text": "HERBY"
-},{
     "text": "HERBS"
 },{
     "text": "HERDS"
 },{
-    "text": "HEREM"
-},{
-    "text": "HERES"
-},{
-    "text": "HERLS"
-},{
-    "text": "HERMA"
-},{
-    "text": "HERMS"
-},{
-    "text": "HERNE"
-},{
-    "text": "HERNS"
-},{
     "text": "HERON"
-},{
-    "text": "HEROS"
-},{
-    "text": "HERRY"
-},{
-    "text": "HERTZ"
-},{
-    "text": "HESTS"
-},{
-    "text": "HETHS"
-},{
-    "text": "HETTY"
-},{
-    "text": "HEVEA"
-},{
-    "text": "HEWED"
-},{
-    "text": "HEWER"
-},{
-    "text": "HEXAD"
-},{
-    "text": "HEXER"
 },{
     "text": "HEXES"
 },{
-    "text": "HEXYL"
-},{
-    "text": "HICKY"
-},{
     "text": "HICKS"
 },{
-    "text": "HIDED"
-},{
-    "text": "HIDER"
-},{
     "text": "HIDES"
-},{
-    "text": "HYDRA"
-},{
-    "text": "HYDRO"
-},{
-    "text": "HYENA"
-},{
-    "text": "HIERA"
-},{
-    "text": "HIGHS"
-},{
-    "text": "HIGHT"
-},{
-    "text": "HYING"
-},{
-    "text": "HIJRA"
 },{
     "text": "HIKED"
 },{
@@ -4641,33 +3133,9 @@
 },{
     "text": "HIKES"
 },{
-    "text": "HILAR"
-},{
-    "text": "HYLAS"
-},{
-    "text": "HILDA"
-},{
-    "text": "HILLY"
-},{
-    "text": "HILLO"
-},{
     "text": "HILLS"
 },{
-    "text": "HILTS"
-},{
-    "text": "HILUM"
-},{
-    "text": "HILUS"
-},{
-    "text": "HYMEN"
-},{
-    "text": "HYMNS"
-},{
-    "text": "HINAU"
-},{
-    "text": "HINDI"
-},{
-    "text": "HINDS"
+    "text": "HILLY"
 },{
     "text": "HINDU"
 },{
@@ -4675,45 +3143,17 @@
 },{
     "text": "HINGE"
 },{
-    "text": "HINNY"
-},{
     "text": "HINTS"
-},{
-    "text": "HYOID"
-},{
-    "text": "HYPED"
-},{
-    "text": "HYPER"
-},{
-    "text": "HYPHA"
-},{
-    "text": "HYPOS"
-},{
-    "text": "HIPPY"
 },{
     "text": "HIPPO"
 },{
-    "text": "HIRAM"
-},{
-    "text": "HYRAX"
+    "text": "HIPPY"
 },{
     "text": "HIRED"
-},{
-    "text": "HIRER"
-},{
-    "text": "HIRES"
-},{
-    "text": "HIRST"
-},{
-    "text": "HYSON"
 },{
     "text": "HISSY"
 },{
     "text": "HITCH"
-},{
-    "text": "HIVED"
-},{
-    "text": "HIVER"
 },{
     "text": "HIVES"
 },{
@@ -4721,97 +3161,27 @@
 },{
     "text": "HOARD"
 },{
-    "text": "HOARY"
-},{
-    "text": "HOARS"
-},{
-    "text": "HOAST"
-},{
     "text": "HOBBY"
-},{
-    "text": "HOBOS"
-},{
-    "text": "HOCKS"
-},{
-    "text": "HOCUS"
-},{
-    "text": "HODAD"
-},{
-    "text": "HODGE"
-},{
-    "text": "HOERS"
-},{
-    "text": "HOGAN"
-},{
-    "text": "HOGGS"
-},{
-    "text": "HOICK"
-},{
-    "text": "HOYLE"
-},{
-    "text": "HOISE"
 },{
     "text": "HOIST"
 },{
-    "text": "HOKAN"
-},{
-    "text": "HOKED"
-},{
     "text": "HOKEY"
-},{
-    "text": "HOKES"
-},{
-    "text": "HOKKU"
-},{
-    "text": "HOKUM"
 },{
     "text": "HOLDS"
 },{
     "text": "HOLED"
 },{
-    "text": "HOLEY"
-},{
     "text": "HOLES"
-},{
-    "text": "HOLLA"
-},{
-    "text": "HOLLY"
-},{
-    "text": "HOLLO"
 },{
     "text": "HOLMS"
 },{
-    "text": "HOLTS"
-},{
-    "text": "HOMED"
-},{
-    "text": "HOMEY"
-},{
     "text": "HOMER"
 },{
-    "text": "HOMES"
-},{
-    "text": "HOMME"
-},{
-    "text": "HOMOS"
-},{
-    "text": "HONAN"
-},{
     "text": "HONDA"
-},{
-    "text": "HONDO"
 },{
     "text": "HONED"
 },{
     "text": "HONEY"
-},{
-    "text": "HONER"
-},{
-    "text": "HONES"
-},{
-    "text": "HONGS"
-},{
-    "text": "HONKY"
 },{
     "text": "HONKS"
 },{
@@ -4819,83 +3189,41 @@
 },{
     "text": "HOOCH"
 },{
-    "text": "HOODY"
-},{
     "text": "HOODS"
+},{
+    "text": "HOODY"
 },{
     "text": "HOOEY"
 },{
     "text": "HOOFS"
 },{
-    "text": "HOOKA"
-},{
-    "text": "HOOKY"
-},{
     "text": "HOOKS"
-},{
-    "text": "HOOLY"
 },{
     "text": "HOOPS"
 },{
     "text": "HOOTS"
 },{
-    "text": "HOPAK"
-},{
     "text": "HOPED"
-},{
-    "text": "HOPER"
 },{
     "text": "HOPES"
 },{
-    "text": "HOPIS"
-},{
-    "text": "HORAE"
-},{
-    "text": "HORAL"
-},{
-    "text": "HORAS"
-},{
     "text": "HORDE"
-},{
-    "text": "HORME"
-},{
-    "text": "HORNY"
 },{
     "text": "HORNS"
 },{
-    "text": "HOROL"
-},{
     "text": "HORSE"
-},{
-    "text": "HORSY"
-},{
-    "text": "HORST"
-},{
-    "text": "HOSEA"
 },{
     "text": "HOSED"
 },{
     "text": "HOSEL"
 },{
-    "text": "HOSEN"
-},{
     "text": "HOSES"
-},{
-    "text": "HOSTA"
 },{
     "text": "HOSTS"
 },{
-    "text": "HOTCH"
-},{
     "text": "HOTEL"
 },{
-    "text": "HOTLY"
-},{
-    "text": "HOUGH"
-},{
     "text": "HOUND"
-},{
-    "text": "HOURI"
 },{
     "text": "HOURS"
 },{
@@ -4909,321 +3237,69 @@
 },{
     "text": "HOWDY"
 },{
-    "text": "HOWEL"
-},{
-    "text": "HOWES"
-},{
-    "text": "HOWFF"
-},{
-    "text": "HOWLS"
-},{
-    "text": "HSIEN"
-},{
-    "text": "HUBBY"
-},{
-    "text": "HUCKS"
-},{
-    "text": "HUFFY"
-},{
-    "text": "HUFFS"
-},{
-    "text": "HUGER"
-},{
-    "text": "HULAS"
-},{
-    "text": "HULKY"
-},{
-    "text": "HULKS"
-},{
-    "text": "HULLO"
-},{
-    "text": "HULLS"
-},{
     "text": "HUMAN"
-},{
-    "text": "HUMIC"
 },{
     "text": "HUMID"
 },{
     "text": "HUMOR"
 },{
-    "text": "HUMPH"
-},{
-    "text": "HUMPY"
-},{
-    "text": "HUMPS"
-},{
     "text": "HUMUS"
 },{
     "text": "HUNCH"
 },{
-    "text": "HUNKY"
-},{
-    "text": "HUNKS"
-},{
     "text": "HUNTS"
-},{
-    "text": "HURDS"
-},{
-    "text": "HURLY"
 },{
     "text": "HURLS"
 },{
     "text": "HURON"
 },{
-    "text": "HURRI"
-},{
     "text": "HURRY"
-},{
-    "text": "HURST"
 },{
     "text": "HURTS"
 },{
-    "text": "HUSKY"
-},{
     "text": "HUSKS"
 },{
-    "text": "HUSSY"
+    "text": "HUSKY"
 },{
-    "text": "HUTCH"
+    "text": "HYDRO"
 },{
-    "text": "HUZZA"
+    "text": "HYENA"
 },{
-    "text": "YABBY"
+    "text": "HYMNS"
 },{
-    "text": "YACCA"
+    "text": "HYPED"
 },{
-    "text": "YACHT"
-},{
-    "text": "YACKS"
-},{
-    "text": "YADIM"
-},{
-    "text": "YAFFS"
-},{
-    "text": "YAGER"
-},{
-    "text": "YAHOO"
-},{
-    "text": "YAKKA"
-},{
-    "text": "YAKUT"
-},{
-    "text": "IAMBI"
-},{
-    "text": "IAMBS"
-},{
-    "text": "YAMEN"
-},{
-    "text": "YAMPA"
-},{
-    "text": "YANAN"
-},{
-    "text": "YANGS"
-},{
-    "text": "YANKS"
-},{
-    "text": "YAPOK"
-},{
-    "text": "YAPON"
-},{
-    "text": "YAPPY"
-},{
-    "text": "YAQUI"
-},{
-    "text": "YARAK"
-},{
-    "text": "YARDS"
-},{
-    "text": "YARER"
-},{
-    "text": "YARNS"
-},{
-    "text": "YASHT"
-},{
-    "text": "YASNA"
-},{
-    "text": "YAUDS"
-},{
-    "text": "YAULD"
-},{
-    "text": "YAUPS"
-},{
-    "text": "YAWED"
-},{
-    "text": "YAWEY"
-},{
-    "text": "YAWLS"
-},{
-    "text": "YAWNY"
-},{
-    "text": "YAWNS"
-},{
-    "text": "YAWPS"
-},{
-    "text": "YAZOO"
-},{
-    "text": "ICENI"
-},{
-    "text": "ICHOR"
-},{
-    "text": "ICHTH"
-},{
-    "text": "ICIER"
-},{
-    "text": "ICILY"
+    "text": "HYPER"
 },{
     "text": "ICING"
 },{
-    "text": "ICKER"
-},{
-    "text": "ICKLE"
-},{
-    "text": "YCLAD"
-},{
     "text": "ICONS"
 },{
-    "text": "ICTIC"
-},{
-    "text": "ICTUS"
-},{
     "text": "IDAHO"
-},{
-    "text": "IDDHI"
 },{
     "text": "IDEAL"
 },{
     "text": "IDEAS"
 },{
-    "text": "IDENT"
-},{
-    "text": "IDYLL"
-},{
-    "text": "IDYLS"
-},{
     "text": "IDIOM"
-},{
-    "text": "IDION"
 },{
     "text": "IDIOT"
 },{
     "text": "IDLED"
 },{
-    "text": "IDLER"
-},{
     "text": "IDLES"
 },{
     "text": "IDOLS"
 },{
-    "text": "YEANS"
-},{
-    "text": "YEARN"
-},{
-    "text": "YEARS"
-},{
-    "text": "YEAST"
-},{
-    "text": "YECCH"
-},{
-    "text": "YECHY"
-},{
-    "text": "YEGGS"
-},{
-    "text": "YELKS"
-},{
-    "text": "YELLS"
-},{
-    "text": "YELPS"
-},{
-    "text": "YEMEN"
-},{
-    "text": "YENTA"
-},{
-    "text": "YERBA"
-},{
-    "text": "YERKS"
-},{
-    "text": "YESES"
-},{
-    "text": "YETIS"
-},{
-    "text": "YETTS"
-},{
-    "text": "YEUKY"
-},{
-    "text": "YEUKS"
-},{
     "text": "IGLOO"
-},{
-    "text": "IGLUS"
-},{
-    "text": "IHRAM"
-},{
-    "text": "YIELD"
-},{
-    "text": "YIKES"
-},{
-    "text": "YILLS"
-},{
-    "text": "YIPES"
-},{
-    "text": "YIRDS"
-},{
-    "text": "YIRRS"
-},{
-    "text": "IKONS"
-},{
-    "text": "ILEAC"
-},{
-    "text": "ILEAL"
-},{
-    "text": "YLEMS"
-},{
-    "text": "ILEUM"
-},{
-    "text": "ILIAC"
-},{
-    "text": "ILIAD"
-},{
-    "text": "ILION"
-},{
-    "text": "ILIUM"
-},{
-    "text": "ILLER"
-},{
-    "text": "ILLUS"
 },{
     "text": "IMAGE"
 },{
-    "text": "IMAGO"
-},{
-    "text": "IMAMS"
-},{
-    "text": "IMAUM"
-},{
-    "text": "IMBED"
-},{
     "text": "IMBUE"
-},{
-    "text": "IMIDE"
-},{
-    "text": "IMIDO"
-},{
-    "text": "IMINE"
 },{
     "text": "IMINO"
 },{
-    "text": "IMMIX"
-},{
-    "text": "IMPAR"
-},{
-    "text": "IMPED"
-},{
     "text": "IMPEL"
-},{
-    "text": "IMPER"
-},{
-    "text": "IMPIS"
 },{
     "text": "IMPLY"
 },{
@@ -5233,33 +3309,11 @@
 },{
     "text": "INCAN"
 },{
-    "text": "INCAS"
-},{
-    "text": "INCOG"
-},{
     "text": "INCUR"
-},{
-    "text": "INCUS"
-},{
-    "text": "INDEF"
 },{
     "text": "INDEX"
 },{
     "text": "INDIA"
-},{
-    "text": "INDIC"
-},{
-    "text": "INDIV"
-},{
-    "text": "INDRA"
-},{
-    "text": "INDRI"
-},{
-    "text": "INDUC"
-},{
-    "text": "INDUE"
-},{
-    "text": "INDUS"
 },{
     "text": "INEPT"
 },{
@@ -5267,187 +3321,37 @@
 },{
     "text": "INFER"
 },{
-    "text": "INFIX"
-},{
-    "text": "INFOS"
-},{
-    "text": "INFRA"
-},{
-    "text": "INGLE"
-},{
-    "text": "INGOT"
-},{
     "text": "INION"
-},{
-    "text": "INJUN"
-},{
-    "text": "INKED"
-},{
-    "text": "INKER"
-},{
-    "text": "INKLE"
-},{
-    "text": "INLAY"
 },{
     "text": "INLAW"
 },{
-    "text": "INLET"
+    "text": "INLAY"
 },{
-    "text": "INNED"
+    "text": "INLET"
 },{
     "text": "INNER"
 },{
-    "text": "INORG"
-},{
     "text": "INPUT"
-},{
-    "text": "INSEP"
 },{
     "text": "INSET"
 },{
-    "text": "INSOL"
-},{
-    "text": "INSTR"
-},{
     "text": "INTEL"
-},{
-    "text": "INTER"
-},{
-    "text": "INTNL"
-},{
-    "text": "INTRA"
 },{
     "text": "INTRO"
 },{
-    "text": "INURE"
-},{
-    "text": "INURN"
-},{
-    "text": "INVAR"
-},{
-    "text": "YOBBO"
-},{
-    "text": "YOCKS"
-},{
-    "text": "YODEL"
-},{
-    "text": "YODHS"
-},{
-    "text": "IODIC"
-},{
-    "text": "IODIN"
-},{
-    "text": "YODLE"
-},{
-    "text": "YOGAS"
-},{
-    "text": "YOGHS"
-},{
-    "text": "YOGIC"
-},{
-    "text": "YOGIN"
-},{
-    "text": "YOGIS"
-},{
-    "text": "YOKED"
-},{
-    "text": "YOKEL"
-},{
-    "text": "YOKER"
-},{
-    "text": "YOKES"
-},{
-    "text": "YOLKY"
-},{
-    "text": "YOLKS"
-},{
-    "text": "IONIC"
-},{
-    "text": "YONIS"
-},{
-    "text": "YORES"
-},{
-    "text": "IOTAS"
-},{
-    "text": "YOUNG"
-},{
-    "text": "YOURE"
-},{
-    "text": "YOURN"
-},{
-    "text": "YOURS"
-},{
-    "text": "YOUSE"
-},{
-    "text": "YOUTH"
-},{
-    "text": "YOUVE"
-},{
-    "text": "IOWAN"
-},{
-    "text": "YOWIE"
-},{
-    "text": "YOWLS"
-},{
-    "text": "YQUEM"
-},{
-    "text": "IRADE"
-},{
-    "text": "IRANI"
-},{
-    "text": "IRAQI"
-},{
     "text": "IRATE"
-},{
-    "text": "IRENA"
-},{
-    "text": "IRENE"
-},{
-    "text": "IRGUN"
-},{
-    "text": "IRIDO"
 },{
     "text": "IRISH"
 },{
     "text": "IRKED"
 },{
-    "text": "IROKO"
-},{
-    "text": "IRONE"
+    "text": "IRONS"
 },{
     "text": "IRONY"
 },{
-    "text": "IRONS"
-},{
-    "text": "IRREG"
-},{
-    "text": "IRVIN"
-},{
-    "text": "IRWIN"
-},{
-    "text": "ISAAC"
-},{
-    "text": "ISBAS"
-},{
-    "text": "ISIAC"
-},{
-    "text": "ISLAY"
-},{
-    "text": "ISLAM"
-},{
-    "text": "ISLED"
-},{
     "text": "ISLES"
 },{
-    "text": "ISLET"
-},{
-    "text": "ISNAD"
-},{
-    "text": "ISSEI"
-},{
     "text": "ISSUE"
-},{
-    "text": "ISTLE"
 },{
     "text": "ITALY"
 },{
@@ -5455,255 +3359,45 @@
 },{
     "text": "ITEMS"
 },{
-    "text": "ITERS"
-},{
-    "text": "ITHER"
-},{
-    "text": "YUANS"
-},{
-    "text": "YUCCA"
-},{
-    "text": "YUCCH"
-},{
-    "text": "YUCKY"
-},{
-    "text": "YUCKS"
-},{
-    "text": "YUGAS"
-},{
-    "text": "YUKON"
-},{
-    "text": "YULAN"
-},{
-    "text": "YULES"
-},{
-    "text": "IULUS"
-},{
-    "text": "YUMAN"
-},{
-    "text": "YUMMY"
-},{
-    "text": "YURAK"
-},{
-    "text": "YURTS"
-},{
-    "text": "IVIED"
-},{
-    "text": "IVIES"
-},{
     "text": "IVORY"
-},{
-    "text": "IXIAS"
-},{
-    "text": "IXION"
-},{
-    "text": "IXORA"
-},{
-    "text": "IXTLE"
-},{
-    "text": "IZARD"
-},{
-    "text": "IZARS"
-},{
-    "text": "IZZAT"
-},{
-    "text": "JABOT"
-},{
-    "text": "JACAL"
-},{
-    "text": "JACKY"
-},{
-    "text": "JACKS"
-},{
-    "text": "JACOB"
 },{
     "text": "JADED"
 },{
-    "text": "JADES"
-},{
-    "text": "JAGER"
-},{
-    "text": "JAGGY"
-},{
-    "text": "JAHVE"
-},{
     "text": "JAILS"
-},{
-    "text": "JAINA"
-},{
-    "text": "JAKEY"
-},{
-    "text": "JAKES"
-},{
-    "text": "JALAP"
-},{
-    "text": "JALEE"
-},{
-    "text": "JALOR"
-},{
-    "text": "JALUR"
-},{
-    "text": "JAMBE"
-},{
-    "text": "JAMBO"
 },{
     "text": "JAMBS"
 },{
-    "text": "JAMES"
-},{
-    "text": "JAMIE"
-},{
-    "text": "JAMMY"
-},{
-    "text": "JANES"
-},{
-    "text": "JANET"
-},{
-    "text": "JANUS"
-},{
     "text": "JAPAN"
-},{
-    "text": "JAPED"
-},{
-    "text": "JAPER"
 },{
     "text": "JAPES"
 },{
-    "text": "JARED"
-},{
-    "text": "JARLS"
-},{
-    "text": "JARMO"
-},{
-    "text": "JARRY"
-},{
-    "text": "JASEY"
-},{
-    "text": "JASON"
-},{
-    "text": "JASPE"
-},{
-    "text": "JATOS"
-},{
-    "text": "JAUKS"
-},{
     "text": "JAUNT"
-},{
-    "text": "JAUPS"
-},{
-    "text": "JAVAN"
-},{
-    "text": "JAVAS"
-},{
-    "text": "JAWAN"
-},{
-    "text": "JAWED"
 },{
     "text": "JAZZY"
 },{
     "text": "JEANS"
 },{
-    "text": "JEBEL"
-},{
-    "text": "JEBUS"
-},{
     "text": "JEEPS"
 },{
     "text": "JEERS"
-},{
-    "text": "JEHAD"
-},{
-    "text": "JEHUS"
-},{
-    "text": "JELLY"
 },{
     "text": "JELLO"
 },{
     "text": "JELLS"
 },{
-    "text": "JEMBE"
-},{
-    "text": "JEMMY"
-},{
-    "text": "JEREZ"
-},{
-    "text": "JERID"
-},{
-    "text": "JERKY"
+    "text": "JELLY"
 },{
     "text": "JERKS"
 },{
-    "text": "JERRY"
-},{
-    "text": "JESSE"
-},{
     "text": "JESTS"
-},{
-    "text": "JESUS"
-},{
-    "text": "JETES"
-},{
-    "text": "JETTY"
-},{
-    "text": "JEWED"
 },{
     "text": "JEWEL"
 },{
-    "text": "JEWRY"
-},{
-    "text": "JIBBA"
-},{
-    "text": "JIBBS"
-},{
-    "text": "JIBED"
-},{
-    "text": "JIBES"
-},{
     "text": "JIFFY"
-},{
-    "text": "JIFFS"
 },{
     "text": "JIGGY"
 },{
-    "text": "JIHAD"
-},{
-    "text": "JILLS"
-},{
-    "text": "JILTS"
-},{
-    "text": "JIMMY"
-},{
-    "text": "JINGO"
-},{
-    "text": "JINJA"
-},{
     "text": "JINKS"
-},{
-    "text": "JINNI"
-},{
-    "text": "JINNS"
-},{
-    "text": "JISMS"
-},{
-    "text": "JIVED"
-},{
-    "text": "JIVES"
-},{
-    "text": "JIZYA"
-},{
-    "text": "JNANA"
-},{
-    "text": "JOCKO"
-},{
-    "text": "JOCKS"
-},{
-    "text": "JOEYS"
-},{
-    "text": "JOHNS"
-},{
-    "text": "JOYCE"
-},{
-    "text": "JOYED"
 },{
     "text": "JOINS"
 },{
@@ -5713,479 +3407,85 @@
 },{
     "text": "JOKED"
 },{
-    "text": "JOKEY"
-},{
     "text": "JOKER"
 },{
     "text": "JOKES"
 },{
-    "text": "JOLES"
-},{
     "text": "JOLLY"
-},{
-    "text": "JOLTY"
 },{
     "text": "JOLTS"
 },{
-    "text": "JOMON"
-},{
-    "text": "JONAH"
-},{
-    "text": "JONAS"
-},{
-    "text": "JORUM"
-},{
-    "text": "JOSIE"
-},{
-    "text": "JOTAS"
-},{
-    "text": "JOTTY"
-},{
-    "text": "JOUAL"
-},{
-    "text": "JOUGS"
-},{
-    "text": "JOUKS"
-},{
-    "text": "JOULE"
-},{
-    "text": "JOURN"
-},{
     "text": "JOUST"
 },{
-    "text": "JOWED"
-},{
-    "text": "JOWLY"
-},{
-    "text": "JOWLS"
-},{
-    "text": "JUANS"
-},{
-    "text": "JUBES"
-},{
-    "text": "JUDAH"
-},{
-    "text": "JUDAS"
+    "text": "JOYED"
 },{
     "text": "JUDGE"
-},{
-    "text": "JUGAL"
-},{
-    "text": "JUGUM"
 },{
     "text": "JUICE"
 },{
     "text": "JUICY"
 },{
-    "text": "JUJUS"
-},{
-    "text": "JUKED"
-},{
-    "text": "JUKES"
-},{
-    "text": "JULEP"
-},{
-    "text": "JULES"
-},{
-    "text": "JULIA"
-},{
-    "text": "JULIE"
-},{
     "text": "JUMBO"
-},{
-    "text": "JUMPY"
 },{
     "text": "JUMPS"
 },{
-    "text": "JUNCO"
-},{
     "text": "JUNKY"
 },{
-    "text": "JUNKS"
-},{
-    "text": "JUNTA"
-},{
-    "text": "JUNTO"
-},{
-    "text": "JUPON"
-},{
-    "text": "JURAL"
-},{
-    "text": "JURAT"
-},{
-    "text": "JUREL"
-},{
-    "text": "JURIS"
-},{
     "text": "JUROR"
-},{
-    "text": "JUSTS"
-},{
-    "text": "JUTES"
-},{
-    "text": "JUTTY"
-},{
-    "text": "KAABA"
-},{
-    "text": "KABAB"
-},{
-    "text": "KABOB"
-},{
-    "text": "KACHA"
-},{
-    "text": "KADIS"
-},{
-    "text": "KAFIR"
-},{
-    "text": "KAFKA"
-},{
-    "text": "KAGOS"
-},{
-    "text": "KAGUS"
-},{
-    "text": "KAIAK"
-},{
-    "text": "KAYAK"
-},{
-    "text": "KAILS"
-},{
-    "text": "KAINS"
-},{
-    "text": "KAYOS"
-},{
-    "text": "KAJAR"
-},{
-    "text": "KAKAS"
-},{
-    "text": "KAKIS"
-},{
-    "text": "KALAM"
-},{
-    "text": "KALES"
-},{
-    "text": "KALIF"
-},{
-    "text": "KALIS"
-},{
-    "text": "KALPA"
-},{
-    "text": "KAMAS"
-},{
-    "text": "KAMBA"
-},{
-    "text": "KAMES"
-},{
-    "text": "KAMIK"
-},{
-    "text": "KANAE"
-},{
-    "text": "KANAS"
-},{
-    "text": "KANES"
-},{
-    "text": "KANGA"
-},{
-    "text": "KANJI"
-},{
-    "text": "KANSA"
-},{
-    "text": "KANZU"
-},{
-    "text": "KAONS"
-},{
-    "text": "KAPHS"
-},{
-    "text": "KAPOK"
-},{
-    "text": "KAPPA"
 },{
     "text": "KAPUT"
 },{
     "text": "KARAT"
 },{
-    "text": "KAREN"
-},{
     "text": "KARMA"
-},{
-    "text": "KAROO"
-},{
-    "text": "KAROS"
-},{
-    "text": "KARRI"
 },{
     "text": "KARST"
 },{
     "text": "KARTS"
 },{
-    "text": "KASHA"
-},{
-    "text": "KASHI"
-},{
-    "text": "KASKA"
-},{
-    "text": "KATAR"
-},{
-    "text": "KATHY"
-},{
     "text": "KATIE"
 },{
-    "text": "KAUCH"
-},{
-    "text": "KAURI"
-},{
-    "text": "KAURY"
-},{
-    "text": "KAVAS"
-},{
-    "text": "KAZAK"
+    "text": "KAYAK"
 },{
     "text": "KAZOO"
 },{
-    "text": "KEATS"
-},{
     "text": "KEBAB"
-},{
-    "text": "KEBOB"
-},{
-    "text": "KECKS"
-},{
-    "text": "KEDAR"
-},{
-    "text": "KEDGE"
-},{
-    "text": "KEEFS"
-},{
-    "text": "KEEKS"
-},{
-    "text": "KEELS"
-},{
-    "text": "KEENS"
 },{
     "text": "KEEPS"
 },{
-    "text": "KEETS"
-},{
-    "text": "KEFIR"
-},{
-    "text": "KEYED"
-},{
-    "text": "KEIRS"
-},{
-    "text": "KEITA"
-},{
-    "text": "KEITH"
-},{
-    "text": "KELEK"
-},{
     "text": "KELEP"
-},{
-    "text": "KELLY"
 },{
     "text": "KELPY"
 },{
-    "text": "KELPS"
-},{
-    "text": "KELTS"
-},{
-    "text": "KEMPY"
-},{
-    "text": "KEMPS"
-},{
-    "text": "KENAF"
-},{
-    "text": "KENCH"
-},{
-    "text": "KENDO"
-},{
-    "text": "KENYA"
-},{
-    "text": "KENNY"
-},{
-    "text": "KENOS"
-},{
-    "text": "KENTE"
-},{
-    "text": "KEPIS"
-},{
-    "text": "KERAT"
-},{
-    "text": "KERBS"
-},{
-    "text": "KERCH"
-},{
-    "text": "KEREL"
-},{
-    "text": "KERFS"
-},{
-    "text": "KERNE"
-},{
-    "text": "KERNS"
-},{
-    "text": "KEROS"
-},{
-    "text": "KERRY"
-},{
     "text": "KETCH"
 },{
-    "text": "KETOL"
-},{
-    "text": "KEVEL"
-},{
-    "text": "KEVIN"
-},{
-    "text": "KEXES"
-},{
-    "text": "KHADI"
+    "text": "KEYED"
 },{
     "text": "KHAKI"
 },{
-    "text": "KHANS"
-},{
-    "text": "KHASI"
-},{
-    "text": "KHATS"
-},{
-    "text": "KHEDA"
-},{
-    "text": "KHMER"
-},{
-    "text": "KHOJA"
-},{
-    "text": "KHOND"
-},{
-    "text": "KIAAT"
-},{
-    "text": "KYACK"
-},{
-    "text": "KIANG"
-},{
-    "text": "KYATS"
-},{
-    "text": "KIBEI"
-},{
-    "text": "KIBES"
-},{
-    "text": "KIBLA"
-},{
-    "text": "KICKY"
-},{
     "text": "KICKS"
 },{
-    "text": "KIDDY"
-},{
     "text": "KIDDO"
-},{
-    "text": "KIEFS"
-},{
-    "text": "KIERS"
-},{
-    "text": "KIYAS"
-},{
-    "text": "KIKES"
-},{
-    "text": "KIKOI"
-},{
-    "text": "KILEY"
-},{
-    "text": "KYLIE"
-},{
-    "text": "KILIJ"
-},{
-    "text": "KILIM"
-},{
-    "text": "KYLIN"
-},{
-    "text": "KILLY"
-},{
-    "text": "KILLS"
-},{
-    "text": "KILNS"
-},{
-    "text": "KYLOE"
 },{
     "text": "KILOS"
 },{
     "text": "KILTS"
 },{
-    "text": "KINDS"
-},{
-    "text": "KINES"
-},{
     "text": "KINGS"
-},{
-    "text": "KINGU"
-},{
-    "text": "KININ"
-},{
-    "text": "KINKY"
 },{
     "text": "KINKS"
 },{
-    "text": "KINOS"
-},{
     "text": "KIOSK"
-},{
-    "text": "KYOTO"
-},{
-    "text": "KIOWA"
-},{
-    "text": "KIPPY"
-},{
-    "text": "KIRBY"
-},{
-    "text": "KYRIE"
-},{
-    "text": "KIRKS"
-},{
-    "text": "KIRNS"
-},{
-    "text": "KISAN"
-},{
-    "text": "KISSY"
-},{
-    "text": "KISTS"
-},{
-    "text": "KITED"
-},{
-    "text": "KITER"
 },{
     "text": "KITES"
 },{
-    "text": "KYTES"
-},{
-    "text": "KITHE"
-},{
-    "text": "KYTHE"
-},{
-    "text": "KITHS"
-},{
     "text": "KITTY"
 },{
-    "text": "KIVAS"
-},{
-    "text": "KIVER"
-},{
     "text": "KIWIS"
-},{
-    "text": "KLANS"
-},{
-    "text": "KLAUS"
-},{
-    "text": "KLICK"
-},{
-    "text": "KLONG"
-},{
-    "text": "KLOOF"
-},{
-    "text": "KLUCK"
 },{
     "text": "KLUTZ"
 },{
     "text": "KNACK"
-},{
-    "text": "KNAPS"
-},{
-    "text": "KNARS"
 },{
     "text": "KNAVE"
 },{
@@ -6197,13 +3497,9 @@
 },{
     "text": "KNEES"
 },{
-    "text": "KNELL"
-},{
     "text": "KNELT"
 },{
     "text": "KNIFE"
-},{
-    "text": "KNISH"
 },{
     "text": "KNITS"
 },{
@@ -6213,139 +3509,27 @@
 },{
     "text": "KNOLL"
 },{
-    "text": "KNOPS"
-},{
-    "text": "KNOSP"
-},{
     "text": "KNOTS"
-},{
-    "text": "KNOUT"
-},{
-    "text": "KNOWE"
 },{
     "text": "KNOWN"
 },{
     "text": "KNOWS"
 },{
-    "text": "KNURL"
-},{
-    "text": "KNURS"
-},{
     "text": "KOALA"
-},{
-    "text": "KOANS"
 },{
     "text": "KODAK"
 },{
-    "text": "KOELS"
-},{
-    "text": "KOFTA"
-},{
-    "text": "KOHEN"
-},{
-    "text": "KOHLS"
-},{
-    "text": "KOINE"
-},{
-    "text": "KOKOS"
-},{
-    "text": "KOLAS"
-},{
-    "text": "KOLIS"
-},{
-    "text": "KOLOS"
-},{
-    "text": "KOMBU"
-},{
-    "text": "KONAK"
-},{
-    "text": "KONDO"
-},{
-    "text": "KONGO"
-},{
-    "text": "KONIA"
-},{
     "text": "KOOKY"
-},{
-    "text": "KOOKS"
-},{
-    "text": "KOPEK"
-},{
-    "text": "KOPHS"
-},{
-    "text": "KOPJE"
-},{
-    "text": "KOPPA"
-},{
-    "text": "KORAH"
-},{
-    "text": "KORAI"
-},{
-    "text": "KORAN"
-},{
-    "text": "KOREA"
 },{
     "text": "KORMA"
 },{
-    "text": "KORUN"
-},{
-    "text": "KOSHA"
-},{
-    "text": "KOTOS"
-},{
-    "text": "KOTOW"
-},{
-    "text": "KRAAL"
-},{
-    "text": "KRAFT"
-},{
-    "text": "KRAIT"
-},{
-    "text": "KRANS"
-},{
-    "text": "KRAUT"
-},{
-    "text": "KREBS"
-},{
-    "text": "KREMS"
-},{
     "text": "KRILL"
-},{
-    "text": "KRISS"
-},{
-    "text": "KRONA"
-},{
-    "text": "KRONE"
-},{
-    "text": "KROON"
 },{
     "text": "KUDOS"
 },{
-    "text": "KUDZU"
-},{
-    "text": "KUFIC"
-},{
-    "text": "KUGEL"
-},{
-    "text": "KUKRI"
-},{
-    "text": "KUKUI"
-},{
-    "text": "KULAK"
-},{
-    "text": "KULAN"
-},{
-    "text": "KURMI"
-},{
-    "text": "KURTA"
-},{
-    "text": "KURUS"
-},{
-    "text": "KUTCH"
-},{
     "text": "KVASS"
 },{
-    "text": "KWELA"
+    "text": "KYOTO"
 },{
     "text": "LABAN"
 },{
@@ -6359,11 +3543,11 @@
 },{
     "text": "LACED"
 },{
-    "text": "LACEY"
-},{
     "text": "LACER"
 },{
     "text": "LACES"
+},{
+    "text": "LACEY"
 },{
     "text": "LACKS"
 },{
@@ -6393,23 +3577,19 @@
 },{
     "text": "LAICS"
 },{
-    "text": "LAYER"
-},{
     "text": "LAIGH"
 },{
     "text": "LAINE"
 },{
     "text": "LAIRD"
 },{
-    "text": "LAIRY"
-},{
     "text": "LAIRS"
+},{
+    "text": "LAIRY"
 },{
     "text": "LAITH"
 },{
     "text": "LAITY"
-},{
-    "text": "LAYUP"
 },{
     "text": "LAIUS"
 },{
@@ -6471,9 +3651,9 @@
 },{
     "text": "LARCH"
 },{
-    "text": "LARDY"
-},{
     "text": "LARDS"
+},{
+    "text": "LARDY"
 },{
     "text": "LARES"
 },{
@@ -6481,9 +3661,9 @@
 },{
     "text": "LARGO"
 },{
-    "text": "LARKY"
-},{
     "text": "LARKS"
+},{
+    "text": "LARKY"
 },{
     "text": "LARRY"
 },{
@@ -6517,9 +3697,9 @@
 },{
     "text": "LATHI"
 },{
-    "text": "LATHY"
-},{
     "text": "LATHS"
+},{
+    "text": "LATHY"
 },{
     "text": "LATIN"
 },{
@@ -6547,13 +3727,17 @@
 },{
     "text": "LAWKS"
 },{
-    "text": "LAWNY"
-},{
     "text": "LAWNS"
+},{
+    "text": "LAWNY"
 },{
     "text": "LAXER"
 },{
     "text": "LAXLY"
+},{
+    "text": "LAYER"
+},{
+    "text": "LAYUP"
 },{
     "text": "LAZAR"
 },{
@@ -6563,17 +3747,17 @@
 },{
     "text": "LEACH"
 },{
-    "text": "LEADY"
-},{
     "text": "LEADS"
 },{
-    "text": "LEAFY"
+    "text": "LEADY"
 },{
     "text": "LEAFS"
 },{
-    "text": "LEAKY"
+    "text": "LEAFY"
 },{
     "text": "LEAKS"
+},{
+    "text": "LEAKY"
 },{
     "text": "LEANS"
 },{
@@ -6583,11 +3767,11 @@
 },{
     "text": "LEAPT"
 },{
-    "text": "LEARY"
-},{
     "text": "LEARN"
 },{
     "text": "LEARS"
+},{
+    "text": "LEARY"
 },{
     "text": "LEASE"
 },{
@@ -6613,15 +3797,15 @@
 },{
     "text": "LEEKS"
 },{
-    "text": "LEERY"
-},{
     "text": "LEERS"
+},{
+    "text": "LEERY"
 },{
     "text": "LEETS"
 },{
-    "text": "LEFTY"
-},{
     "text": "LEFTS"
+},{
+    "text": "LEFTY"
 },{
     "text": "LEGAL"
 },{
@@ -6717,13 +3901,7 @@
 },{
     "text": "LIARD"
 },{
-    "text": "LYARD"
-},{
     "text": "LIARS"
-},{
-    "text": "LYART"
-},{
-    "text": "LYASE"
 },{
     "text": "LIBBY"
 },{
@@ -6731,13 +3909,11 @@
 },{
     "text": "LIBER"
 },{
-    "text": "LIBYA"
-},{
     "text": "LIBRA"
 },{
     "text": "LIBRI"
 },{
-    "text": "LYCEE"
+    "text": "LIBYA"
 },{
     "text": "LICET"
 },{
@@ -6752,8 +3928,6 @@
     "text": "LIDAR"
 },{
     "text": "LIDIA"
-},{
-    "text": "LYDIA"
 },{
     "text": "LIDOS"
 },{
@@ -6780,8 +3954,6 @@
     "text": "LIGHT"
 },{
     "text": "LIGNE"
-},{
-    "text": "LYING"
 },{
     "text": "LIKED"
 },{
@@ -6813,11 +3985,11 @@
 },{
     "text": "LIMED"
 },{
-    "text": "LIMEY"
-},{
     "text": "LIMEN"
 },{
     "text": "LIMES"
+},{
+    "text": "LIMEY"
 },{
     "text": "LIMIT"
 },{
@@ -6825,15 +3997,11 @@
 },{
     "text": "LIMOS"
 },{
-    "text": "LYMPH"
-},{
     "text": "LIMPS"
 },{
     "text": "LIMSY"
 },{
     "text": "LINAC"
-},{
-    "text": "LYNCH"
 },{
     "text": "LINDA"
 },{
@@ -6843,13 +4011,13 @@
 },{
     "text": "LINED"
 },{
-    "text": "LINEY"
-},{
     "text": "LINEN"
 },{
     "text": "LINER"
 },{
     "text": "LINES"
+},{
+    "text": "LINEY"
 },{
     "text": "LINGA"
 },{
@@ -6861,15 +4029,13 @@
 },{
     "text": "LINKS"
 },{
-    "text": "LYNNE"
-},{
     "text": "LINNS"
 },{
     "text": "LINOS"
 },{
-    "text": "LINTY"
-},{
     "text": "LINTS"
+},{
+    "text": "LINTY"
 },{
     "text": "LINUM"
 },{
@@ -6885,25 +4051,9 @@
 },{
     "text": "LIRAS"
 },{
-    "text": "LYRES"
-},{
-    "text": "LYRIC"
-},{
-    "text": "LYSED"
-},{
-    "text": "LYSES"
-},{
-    "text": "LYSIN"
-},{
-    "text": "LYSIS"
-},{
     "text": "LISLE"
 },{
-    "text": "LYSOL"
-},{
     "text": "LISPS"
-},{
-    "text": "LYSSA"
 },{
     "text": "LISTS"
 },{
@@ -6919,15 +4069,11 @@
 },{
     "text": "LITHE"
 },{
-    "text": "LITHY"
-},{
     "text": "LITHO"
 },{
-    "text": "LYTIC"
+    "text": "LITHY"
 },{
     "text": "LITRE"
-},{
-    "text": "LYTTA"
 },{
     "text": "LITUI"
 },{
@@ -6961,9 +4107,9 @@
 },{
     "text": "LOAFS"
 },{
-    "text": "LOAMY"
-},{
     "text": "LOAMS"
+},{
+    "text": "LOAMY"
 },{
     "text": "LOANS"
 },{
@@ -7003,9 +4149,9 @@
 },{
     "text": "LOESS"
 },{
-    "text": "LOFTY"
-},{
     "text": "LOFTS"
+},{
+    "text": "LOFTY"
 },{
     "text": "LOGAN"
 },{
@@ -7024,8 +4170,6 @@
     "text": "LOGOS"
 },{
     "text": "LOHAN"
-},{
-    "text": "LOYAL"
 },{
     "text": "LOINS"
 },{
@@ -7051,19 +4195,19 @@
 },{
     "text": "LOOIE"
 },{
-    "text": "LOOKY"
-},{
     "text": "LOOKS"
+},{
+    "text": "LOOKY"
 },{
     "text": "LOOMS"
 },{
-    "text": "LOONY"
-},{
     "text": "LOONS"
 },{
-    "text": "LOOPY"
+    "text": "LOONY"
 },{
     "text": "LOOPS"
+},{
+    "text": "LOOPY"
 },{
     "text": "LOOSE"
 },{
@@ -7081,9 +4225,9 @@
 },{
     "text": "LORAN"
 },{
-    "text": "LORDY"
-},{
     "text": "LORDS"
+},{
+    "text": "LORDY"
 },{
     "text": "LOREN"
 },{
@@ -7127,9 +4271,9 @@
 },{
     "text": "LOUPS"
 },{
-    "text": "LOURY"
-},{
     "text": "LOURS"
+},{
+    "text": "LOURY"
 },{
     "text": "LOUSE"
 },{
@@ -7139,9 +4283,9 @@
 },{
     "text": "LOVAT"
 },{
-    "text": "LOVEY"
-},{
     "text": "LOVES"
+},{
+    "text": "LOVEY"
 },{
     "text": "LOWAN"
 },{
@@ -7159,6 +4303,8 @@
 },{
     "text": "LOXES"
 },{
+    "text": "LOYAL"
+},{
     "text": "LUAUS"
 },{
     "text": "LUBES"
@@ -7173,9 +4319,9 @@
 },{
     "text": "LUCID"
 },{
-    "text": "LUCKY"
-},{
     "text": "LUCKS"
+},{
+    "text": "LUCKY"
 },{
     "text": "LUCRE"
 },{
@@ -7193,9 +4339,9 @@
 },{
     "text": "LULAV"
 },{
-    "text": "LULLY"
-},{
     "text": "LULLS"
+},{
+    "text": "LULLY"
 },{
     "text": "LULUS"
 },{
@@ -7203,9 +4349,9 @@
 },{
     "text": "LUMME"
 },{
-    "text": "LUMPY"
-},{
     "text": "LUMPS"
+},{
+    "text": "LUMPY"
 },{
     "text": "LUNAR"
 },{
@@ -7245,9 +4391,9 @@
 },{
     "text": "LUSHY"
 },{
-    "text": "LUSTY"
-},{
     "text": "LUSTS"
+},{
+    "text": "LUSTY"
 },{
     "text": "LUTED"
 },{
@@ -7256,6 +4402,44 @@
     "text": "LUTES"
 },{
     "text": "LUXES"
+},{
+    "text": "LYARD"
+},{
+    "text": "LYART"
+},{
+    "text": "LYASE"
+},{
+    "text": "LYCEE"
+},{
+    "text": "LYDIA"
+},{
+    "text": "LYING"
+},{
+    "text": "LYMPH"
+},{
+    "text": "LYNCH"
+},{
+    "text": "LYNNE"
+},{
+    "text": "LYRES"
+},{
+    "text": "LYRIC"
+},{
+    "text": "LYSED"
+},{
+    "text": "LYSES"
+},{
+    "text": "LYSIN"
+},{
+    "text": "LYSIS"
+},{
+    "text": "LYSOL"
+},{
+    "text": "LYSSA"
+},{
+    "text": "LYTIC"
+},{
+    "text": "LYTTA"
 },{
     "text": "MAARS"
 },{
@@ -7321,19 +4505,9 @@
 },{
     "text": "MAHWA"
 },{
-    "text": "MAYAN"
-},{
-    "text": "MAYAS"
-},{
-    "text": "MAYBE"
-},{
     "text": "MAIDS"
 },{
     "text": "MAIDU"
-},{
-    "text": "MAYED"
-},{
-    "text": "MAYER"
 },{
     "text": "MAILE"
 },{
@@ -7347,17 +4521,11 @@
 },{
     "text": "MAINS"
 },{
-    "text": "MAYNT"
-},{
-    "text": "MAYOR"
-},{
     "text": "MAIRE"
 },{
     "text": "MAIRS"
 },{
     "text": "MAIST"
-},{
-    "text": "MAYST"
 },{
     "text": "MAIZE"
 },{
@@ -7375,11 +4543,11 @@
 },{
     "text": "MAKUA"
 },{
-    "text": "MALAY"
-},{
     "text": "MALAM"
 },{
     "text": "MALAR"
+},{
+    "text": "MALAY"
 },{
     "text": "MALES"
 },{
@@ -7393,9 +4561,9 @@
 },{
     "text": "MALTA"
 },{
-    "text": "MALTY"
-},{
     "text": "MALTS"
+},{
+    "text": "MALTY"
 },{
     "text": "MALWA"
 },{
@@ -7431,9 +4599,9 @@
 },{
     "text": "MANGE"
 },{
-    "text": "MANGY"
-},{
     "text": "MANGO"
+},{
+    "text": "MANGY"
 },{
     "text": "MANIA"
 },{
@@ -7493,15 +4661,13 @@
 },{
     "text": "MARIS"
 },{
-    "text": "MARYS"
-},{
     "text": "MARKA"
 },{
     "text": "MARKS"
 },{
-    "text": "MARLY"
-},{
     "text": "MARLS"
+},{
+    "text": "MARLY"
 },{
     "text": "MAROR"
 },{
@@ -7516,6 +4682,8 @@
     "text": "MARTS"
 },{
     "text": "MARVY"
+},{
+    "text": "MARYS"
 },{
     "text": "MASAI"
 },{
@@ -7541,11 +4709,11 @@
 },{
     "text": "MATED"
 },{
-    "text": "MATEY"
-},{
     "text": "MATER"
 },{
     "text": "MATES"
+},{
+    "text": "MATEY"
 },{
     "text": "MATHA"
 },{
@@ -7561,9 +4729,9 @@
 },{
     "text": "MATTE"
 },{
-    "text": "MATTY"
-},{
     "text": "MATTS"
+},{
+    "text": "MATTY"
 },{
     "text": "MATZO"
 },{
@@ -7587,6 +4755,22 @@
 },{
     "text": "MAXIS"
 },{
+    "text": "MAYAN"
+},{
+    "text": "MAYAS"
+},{
+    "text": "MAYBE"
+},{
+    "text": "MAYED"
+},{
+    "text": "MAYER"
+},{
+    "text": "MAYNT"
+},{
+    "text": "MAYOR"
+},{
+    "text": "MAYST"
+},{
     "text": "MAZDA"
 },{
     "text": "MAZED"
@@ -7603,21 +4787,21 @@
 },{
     "text": "MEADS"
 },{
-    "text": "MEALY"
-},{
     "text": "MEALS"
 },{
-    "text": "MEANY"
+    "text": "MEALY"
 },{
     "text": "MEANS"
 },{
     "text": "MEANT"
 },{
+    "text": "MEANY"
+},{
     "text": "MEATH"
 },{
-    "text": "MEATY"
-},{
     "text": "MEATS"
+},{
+    "text": "MEATY"
 },{
     "text": "MECCA"
 },{
@@ -7765,8 +4949,6 @@
 },{
     "text": "MEZZO"
 },{
-    "text": "MYALL"
-},{
     "text": "MIAMI"
 },{
     "text": "MIAOU"
@@ -7783,11 +4965,9 @@
 },{
     "text": "MICHT"
 },{
-    "text": "MICKY"
-},{
     "text": "MICKS"
 },{
-    "text": "MYCOL"
+    "text": "MICKY"
 },{
     "text": "MICRA"
 },{
@@ -7805,9 +4985,9 @@
 },{
     "text": "MIENS"
 },{
-    "text": "MIFFY"
-},{
     "text": "MIFFS"
+},{
+    "text": "MIFFY"
 },{
     "text": "MIGGS"
 },{
@@ -7821,8 +5001,6 @@
 },{
     "text": "MILAN"
 },{
-    "text": "MYLAR"
-},{
     "text": "MILCH"
 },{
     "text": "MILER"
@@ -7833,17 +5011,17 @@
 },{
     "text": "MILIT"
 },{
-    "text": "MILKY"
-},{
     "text": "MILKO"
 },{
     "text": "MILKS"
 },{
+    "text": "MILKY"
+},{
     "text": "MILLE"
 },{
-    "text": "MILLY"
-},{
     "text": "MILLS"
+},{
+    "text": "MILLY"
 },{
     "text": "MILOS"
 },{
@@ -7869,11 +5047,7 @@
 },{
     "text": "MINAH"
 },{
-    "text": "MYNAH"
-},{
     "text": "MINAS"
-},{
-    "text": "MYNAS"
 },{
     "text": "MINCE"
 },{
@@ -7903,29 +5077,19 @@
 },{
     "text": "MINOT"
 },{
-    "text": "MINTY"
-},{
     "text": "MINTS"
 },{
+    "text": "MINTY"
+},{
     "text": "MINUS"
-},{
-    "text": "MYOID"
-},{
-    "text": "MYOMA"
-},{
-    "text": "MYOPE"
 },{
     "text": "MIRED"
 },{
     "text": "MIRES"
 },{
-    "text": "MIRKY"
-},{
     "text": "MIRKS"
 },{
-    "text": "MYRON"
-},{
-    "text": "MYRRH"
+    "text": "MIRKY"
 },{
     "text": "MIRTH"
 },{
@@ -7941,17 +5105,15 @@
 },{
     "text": "MISES"
 },{
-    "text": "MYSID"
-},{
     "text": "MISOS"
 },{
     "text": "MISSA"
 },{
     "text": "MISSY"
 },{
-    "text": "MISTY"
-},{
     "text": "MISTS"
+},{
+    "text": "MISTY"
 },{
     "text": "MITCH"
 },{
@@ -7959,17 +5121,15 @@
 },{
     "text": "MITES"
 },{
-    "text": "MYTHS"
-},{
     "text": "MITIS"
 },{
     "text": "MITRA"
 },{
     "text": "MITRE"
 },{
-    "text": "MITTY"
-},{
     "text": "MITTS"
+},{
+    "text": "MITTY"
 },{
     "text": "MIXED"
 },{
@@ -7994,8 +5154,6 @@
     "text": "MOCHA"
 },{
     "text": "MOCHE"
-},{
-    "text": "MOIST"
 },{
     "text": "MOCKS"
 },{
@@ -8029,8 +5187,6 @@
 },{
     "text": "MOHWA"
 },{
-    "text": "MOYLE"
-},{
     "text": "MOILS"
 },{
     "text": "MOIRA"
@@ -8038,6 +5194,8 @@
     "text": "MOIRE"
 },{
     "text": "MOISM"
+},{
+    "text": "MOIST"
 },{
     "text": "MOITY"
 },{
@@ -8051,17 +5209,17 @@
 },{
     "text": "MOLAS"
 },{
-    "text": "MOLDY"
-},{
     "text": "MOLDS"
+},{
+    "text": "MOLDY"
 },{
     "text": "MOLES"
 },{
     "text": "MOLET"
 },{
-    "text": "MOLLY"
-},{
     "text": "MOLLS"
+},{
+    "text": "MOLLY"
 },{
     "text": "MOLTO"
 },{
@@ -8107,9 +5265,9 @@
 },{
     "text": "MOOCH"
 },{
-    "text": "MOODY"
-},{
     "text": "MOODS"
+},{
+    "text": "MOODY"
 },{
     "text": "MOOED"
 },{
@@ -8117,15 +5275,15 @@
 },{
     "text": "MOOLS"
 },{
-    "text": "MOONY"
-},{
     "text": "MOONS"
+},{
+    "text": "MOONY"
 },{
     "text": "MOORE"
 },{
-    "text": "MOORY"
-},{
     "text": "MOORS"
+},{
+    "text": "MOORY"
 },{
     "text": "MOOSE"
 },{
@@ -8133,21 +5291,21 @@
 },{
     "text": "MOPED"
 },{
-    "text": "MOPEY"
-},{
     "text": "MOPER"
 },{
     "text": "MOPES"
+},{
+    "text": "MOPEY"
 },{
     "text": "MOQUI"
 },{
     "text": "MORAE"
 },{
-    "text": "MORAY"
-},{
     "text": "MORAL"
 },{
     "text": "MORAS"
+},{
+    "text": "MORAY"
 },{
     "text": "MOREL"
 },{
@@ -8167,17 +5325,17 @@
 },{
     "text": "MORTS"
 },{
-    "text": "MOSEY"
-},{
     "text": "MOSEL"
 },{
     "text": "MOSES"
 },{
+    "text": "MOSEY"
+},{
     "text": "MOSSI"
 },{
-    "text": "MOSSY"
-},{
     "text": "MOSSO"
+},{
+    "text": "MOSSY"
 },{
     "text": "MOSTE"
 },{
@@ -8185,17 +5343,17 @@
 },{
     "text": "MOSUL"
 },{
-    "text": "MOTEY"
-},{
     "text": "MOTEL"
 },{
     "text": "MOTES"
 },{
     "text": "MOTET"
 },{
-    "text": "MOTHY"
+    "text": "MOTEY"
 },{
     "text": "MOTHS"
+},{
+    "text": "MOTHY"
 },{
     "text": "MOTIF"
 },{
@@ -8205,11 +5363,11 @@
 },{
     "text": "MOTTE"
 },{
-    "text": "MOTTY"
-},{
     "text": "MOTTO"
 },{
     "text": "MOTTS"
+},{
+    "text": "MOTTY"
 },{
     "text": "MOUCH"
 },{
@@ -8247,6 +5405,8 @@
 },{
     "text": "MOXIE"
 },{
+    "text": "MOYLE"
+},{
     "text": "MOZOS"
 },{
     "text": "MUCIC"
@@ -8255,9 +5415,9 @@
 },{
     "text": "MUCIN"
 },{
-    "text": "MUCKY"
-},{
     "text": "MUCKS"
+},{
+    "text": "MUCKY"
 },{
     "text": "MUCOR"
 },{
@@ -8271,9 +5431,9 @@
 },{
     "text": "MUDRA"
 },{
-    "text": "MUFFY"
-},{
     "text": "MUFFS"
+},{
+    "text": "MUFFY"
 },{
     "text": "MUFTI"
 },{
@@ -8287,9 +5447,9 @@
 },{
     "text": "MULCT"
 },{
-    "text": "MULEY"
-},{
     "text": "MULES"
+},{
+    "text": "MULEY"
 },{
     "text": "MULGA"
 },{
@@ -8299,9 +5459,9 @@
 },{
     "text": "MULTI"
 },{
-    "text": "MUMMY"
-},{
     "text": "MUMMS"
+},{
+    "text": "MUMMY"
 },{
     "text": "MUMPS"
 },{
@@ -8333,9 +5493,9 @@
 },{
     "text": "MUREX"
 },{
-    "text": "MURKY"
-},{
     "text": "MURKS"
+},{
+    "text": "MURKY"
 },{
     "text": "MURRA"
 },{
@@ -8357,17 +5517,17 @@
 },{
     "text": "MUSIC"
 },{
-    "text": "MUSKY"
-},{
     "text": "MUSKS"
+},{
+    "text": "MUSKY"
 },{
     "text": "MUSSY"
 },{
     "text": "MUSTH"
 },{
-    "text": "MUSTY"
-},{
     "text": "MUSTS"
+},{
+    "text": "MUSTY"
 },{
     "text": "MUTCH"
 },{
@@ -8382,6 +5542,30 @@
     "text": "MUTTS"
 },{
     "text": "MUZZY"
+},{
+    "text": "MYALL"
+},{
+    "text": "MYCOL"
+},{
+    "text": "MYLAR"
+},{
+    "text": "MYNAH"
+},{
+    "text": "MYNAS"
+},{
+    "text": "MYOID"
+},{
+    "text": "MYOMA"
+},{
+    "text": "MYOPE"
+},{
+    "text": "MYRON"
+},{
+    "text": "MYRRH"
+},{
+    "text": "MYSID"
+},{
+    "text": "MYTHS"
 },{
     "text": "NABAL"
 },{
@@ -8453,9 +5637,9 @@
 },{
     "text": "NARIS"
 },{
-    "text": "NARKY"
-},{
     "text": "NARKS"
+},{
+    "text": "NARKY"
 },{
     "text": "NASAL"
 },{
@@ -8501,9 +5685,9 @@
 },{
     "text": "NECRO"
 },{
-    "text": "NEEDY"
-},{
     "text": "NEEDS"
+},{
+    "text": "NEEDY"
 },{
     "text": "NEEPS"
 },{
@@ -8541,9 +5725,9 @@
 },{
     "text": "NERVY"
 },{
-    "text": "NESTY"
-},{
     "text": "NESTS"
+},{
+    "text": "NESTY"
 },{
     "text": "NETTY"
 },{
@@ -8575,19 +5759,15 @@
 },{
     "text": "NGWEE"
 },{
-    "text": "NYAYA"
-},{
-    "text": "NYALA"
-},{
     "text": "NICER"
 },{
     "text": "NICHE"
 },{
     "text": "NICHT"
 },{
-    "text": "NICKY"
-},{
     "text": "NICKS"
+},{
+    "text": "NICKY"
 },{
     "text": "NICOL"
 },{
@@ -8596,8 +5776,6 @@
     "text": "NIDES"
 },{
     "text": "NIDGE"
-},{
-    "text": "NYDIA"
 },{
     "text": "NIDUS"
 },{
@@ -8623,11 +5801,7 @@
 },{
     "text": "NILLS"
 },{
-    "text": "NYLON"
-},{
     "text": "NIMBI"
-},{
-    "text": "NYMPH"
 },{
     "text": "NINES"
 },{
@@ -8642,8 +5816,6 @@
     "text": "NINTH"
 },{
     "text": "NIOBE"
-},{
-    "text": "NYORO"
 },{
     "text": "NIPAS"
 },{
@@ -8679,8 +5851,6 @@
 },{
     "text": "NIXIE"
 },{
-    "text": "NYXIS"
-},{
     "text": "NIXON"
 },{
     "text": "NIZAM"
@@ -8715,11 +5885,9 @@
 },{
     "text": "NOHOW"
 },{
-    "text": "NOYAU"
+    "text": "NOILS"
 },{
     "text": "NOILY"
-},{
-    "text": "NOILS"
 },{
     "text": "NOISE"
 },{
@@ -8741,9 +5909,9 @@
 },{
     "text": "NONET"
 },{
-    "text": "NOOKY"
-},{
     "text": "NOOKS"
+},{
+    "text": "NOOKY"
 },{
     "text": "NOONS"
 },{
@@ -8763,9 +5931,9 @@
 },{
     "text": "NOSED"
 },{
-    "text": "NOSEY"
-},{
     "text": "NOSES"
+},{
+    "text": "NOSEY"
 },{
     "text": "NOTAL"
 },{
@@ -8794,6 +5962,8 @@
     "text": "NOWAY"
 },{
     "text": "NOWEL"
+},{
+    "text": "NOYAU"
 },{
     "text": "NUBBY"
 },{
@@ -8837,6 +6007,20 @@
 },{
     "text": "NUTTY"
 },{
+    "text": "NYALA"
+},{
+    "text": "NYAYA"
+},{
+    "text": "NYDIA"
+},{
+    "text": "NYLON"
+},{
+    "text": "NYMPH"
+},{
+    "text": "NYORO"
+},{
+    "text": "NYXIS"
+},{
     "text": "OAKEN"
 },{
     "text": "OAKUM"
@@ -8859,11 +6043,11 @@
 },{
     "text": "OBEAH"
 },{
-    "text": "OBEYS"
-},{
     "text": "OBELI"
 },{
     "text": "OBESE"
+},{
+    "text": "OBEYS"
 },{
     "text": "OBIIT"
 },{
@@ -8907,15 +6091,15 @@
 },{
     "text": "ODEUM"
 },{
-    "text": "ODYLE"
-},{
-    "text": "ODYLS"
-},{
     "text": "ODIUM"
 },{
     "text": "ODORS"
 },{
     "text": "ODOUR"
+},{
+    "text": "ODYLE"
+},{
+    "text": "ODYLS"
 },{
     "text": "OECUS"
 },{
@@ -8955,21 +6139,17 @@
 },{
     "text": "OIDIA"
 },{
-    "text": "OYERS"
-},{
     "text": "OILED"
 },{
     "text": "OILER"
-},{
-    "text": "OYLET"
 },{
     "text": "OINKS"
 },{
     "text": "OISIN"
 },{
-    "text": "OKAYS"
-},{
     "text": "OKAPI"
+},{
+    "text": "OKAYS"
 },{
     "text": "OKRAS"
 },{
@@ -9031,9 +6211,9 @@
 },{
     "text": "ONIUM"
 },{
-    "text": "ONLAY"
-},{
     "text": "ONLAP"
+},{
+    "text": "ONLAY"
 },{
     "text": "ONSET"
 },{
@@ -9107,9 +6287,9 @@
 },{
     "text": "ORIEL"
 },{
-    "text": "ORIYA"
-},{
     "text": "ORION"
+},{
+    "text": "ORIYA"
 },{
     "text": "ORLES"
 },{
@@ -9251,6 +6431,10 @@
 },{
     "text": "OXTER"
 },{
+    "text": "OYERS"
+},{
+    "text": "OYLET"
+},{
     "text": "OZARK"
 },{
     "text": "OZENA"
@@ -9297,10 +6481,6 @@
 },{
     "text": "PAHOS"
 },{
-    "text": "PAYEE"
-},{
-    "text": "PAYER"
-},{
     "text": "PAILS"
 },{
     "text": "PAINE"
@@ -9331,15 +6511,15 @@
 },{
     "text": "PALLA"
 },{
-    "text": "PALLY"
-},{
     "text": "PALLS"
+},{
+    "text": "PALLY"
 },{
     "text": "PALMA"
 },{
-    "text": "PALMY"
-},{
     "text": "PALMS"
+},{
+    "text": "PALMY"
 },{
     "text": "PALPI"
 },{
@@ -9373,11 +6553,11 @@
 },{
     "text": "PANSY"
 },{
-    "text": "PANTY"
-},{
     "text": "PANTO"
 },{
     "text": "PANTS"
+},{
+    "text": "PANTY"
 },{
     "text": "PAPAL"
 },{
@@ -9413,9 +6593,9 @@
 },{
     "text": "PARKA"
 },{
-    "text": "PARKY"
-},{
     "text": "PARKS"
+},{
+    "text": "PARKY"
 },{
     "text": "PARLE"
 },{
@@ -9425,9 +6605,9 @@
 },{
     "text": "PARRA"
 },{
-    "text": "PARRY"
-},{
     "text": "PARRS"
+},{
+    "text": "PARRY"
 },{
     "text": "PARSE"
 },{
@@ -9435,9 +6615,9 @@
 },{
     "text": "PARTI"
 },{
-    "text": "PARTY"
-},{
     "text": "PARTS"
+},{
+    "text": "PARTY"
 },{
     "text": "PARVE"
 },{
@@ -9457,9 +6637,9 @@
 },{
     "text": "PASTE"
 },{
-    "text": "PASTY"
-},{
     "text": "PASTS"
+},{
+    "text": "PASTY"
 },{
     "text": "PATCH"
 },{
@@ -9471,9 +6651,9 @@
 },{
     "text": "PATES"
 },{
-    "text": "PATHY"
-},{
     "text": "PATHS"
+},{
+    "text": "PATHY"
 },{
     "text": "PATIN"
 },{
@@ -9515,15 +6695,19 @@
 },{
     "text": "PAXES"
 },{
+    "text": "PAYEE"
+},{
+    "text": "PAYER"
+},{
     "text": "PEACE"
 },{
     "text": "PEACH"
 },{
     "text": "PEAGS"
 },{
-    "text": "PEAKY"
-},{
     "text": "PEAKS"
+},{
+    "text": "PEAKY"
 },{
     "text": "PEALS"
 },{
@@ -9535,15 +6719,15 @@
 },{
     "text": "PEASE"
 },{
-    "text": "PEATY"
-},{
     "text": "PEATS"
+},{
+    "text": "PEATY"
 },{
     "text": "PECAN"
 },{
-    "text": "PECKY"
-},{
     "text": "PECKS"
+},{
+    "text": "PECKY"
 },{
     "text": "PECOS"
 },{
@@ -9605,9 +6789,9 @@
 },{
     "text": "PENTA"
 },{
-    "text": "PEONY"
-},{
     "text": "PEONS"
+},{
+    "text": "PEONY"
 },{
     "text": "PEPLA"
 },{
@@ -9627,9 +6811,9 @@
 },{
     "text": "PERIS"
 },{
-    "text": "PERKY"
-},{
     "text": "PERKS"
+},{
+    "text": "PERKY"
 },{
     "text": "PERLE"
 },{
@@ -9663,9 +6847,9 @@
 },{
     "text": "PETTI"
 },{
-    "text": "PETTY"
-},{
     "text": "PETTO"
+},{
+    "text": "PETTY"
 },{
     "text": "PEWEE"
 },{
@@ -9689,27 +6873,27 @@
 },{
     "text": "PHIAL"
 },{
-    "text": "PHYLA"
-},{
-    "text": "PHYLE"
-},{
-    "text": "PHYMA"
-},{
     "text": "PHLOX"
 },{
     "text": "PHONE"
 },{
-    "text": "PHONY"
-},{
     "text": "PHONO"
 },{
     "text": "PHONS"
+},{
+    "text": "PHONY"
 },{
     "text": "PHOTO"
 },{
     "text": "PHOTS"
 },{
     "text": "PHREN"
+},{
+    "text": "PHYLA"
+},{
+    "text": "PHYLE"
+},{
+    "text": "PHYMA"
 },{
     "text": "PIANO"
 },{
@@ -9719,9 +6903,9 @@
 },{
     "text": "PICAS"
 },{
-    "text": "PICKY"
-},{
     "text": "PICKS"
+},{
+    "text": "PICKY"
 },{
     "text": "PICOT"
 },{
@@ -9743,21 +6927,17 @@
 },{
     "text": "PIGMY"
 },{
-    "text": "PYGMY"
-},{
     "text": "PIING"
-},{
-    "text": "PYINS"
 },{
     "text": "PIKAS"
 },{
     "text": "PIKED"
 },{
-    "text": "PIKEY"
-},{
     "text": "PIKER"
 },{
     "text": "PIKES"
+},{
+    "text": "PIKEY"
 },{
     "text": "PILAF"
 },{
@@ -9781,8 +6961,6 @@
 },{
     "text": "PILON"
 },{
-    "text": "PYLON"
-},{
     "text": "PILOT"
 },{
     "text": "PILUM"
@@ -9801,19 +6979,19 @@
 },{
     "text": "PINED"
 },{
-    "text": "PINEY"
-},{
     "text": "PINES"
+},{
+    "text": "PINEY"
 },{
     "text": "PINGO"
 },{
     "text": "PINGS"
 },{
-    "text": "PINKY"
-},{
     "text": "PINKO"
 },{
     "text": "PINKS"
+},{
+    "text": "PINKY"
 },{
     "text": "PINNA"
 },{
@@ -9830,8 +7008,6 @@
     "text": "PINTS"
 },{
     "text": "PINUP"
-},{
-    "text": "PYOID"
 },{
     "text": "PIONS"
 },{
@@ -9851,19 +7027,13 @@
 },{
     "text": "PIQUE"
 },{
-    "text": "PYRAN"
-},{
-    "text": "PYRES"
-},{
-    "text": "PYREX"
-},{
     "text": "PIRNS"
 },{
     "text": "PIROG"
 },{
-    "text": "PISAY"
-},{
     "text": "PISAN"
+},{
+    "text": "PISAY"
 },{
     "text": "PISCO"
 },{
@@ -9873,9 +7043,9 @@
 },{
     "text": "PITCH"
 },{
-    "text": "PITHY"
-},{
     "text": "PITHS"
+},{
+    "text": "PITHY"
 },{
     "text": "PITON"
 },{
@@ -9889,13 +7059,7 @@
 },{
     "text": "PIXES"
 },{
-    "text": "PYXES"
-},{
     "text": "PIXIE"
-},{
-    "text": "PYXIE"
-},{
-    "text": "PYXIS"
 },{
     "text": "PIZZA"
 },{
@@ -9905,13 +7069,9 @@
 },{
     "text": "PLAGE"
 },{
-    "text": "PLAYA"
-},{
     "text": "PLAID"
 },{
     "text": "PLAIN"
-},{
-    "text": "PLAYS"
 },{
     "text": "PLAIT"
 },{
@@ -9929,11 +7089,15 @@
 },{
     "text": "PLATE"
 },{
-    "text": "PLATY"
-},{
     "text": "PLATO"
 },{
     "text": "PLATS"
+},{
+    "text": "PLATY"
+},{
+    "text": "PLAYA"
+},{
+    "text": "PLAYS"
 },{
     "text": "PLAZA"
 },{
@@ -9955,13 +7119,11 @@
 },{
     "text": "PLIER"
 },{
-    "text": "PLYER"
-},{
     "text": "PLIES"
 },{
-    "text": "PLINY"
-},{
     "text": "PLINK"
+},{
+    "text": "PLINY"
 },{
     "text": "PLOAT"
 },{
@@ -9970,8 +7132,6 @@
     "text": "PLOCK"
 },{
     "text": "PLODS"
-},{
-    "text": "PLOYS"
 },{
     "text": "PLOMB"
 },{
@@ -9987,6 +7147,8 @@
 },{
     "text": "PLOWS"
 },{
+    "text": "PLOYS"
+},{
     "text": "PLUCK"
 },{
     "text": "PLUGS"
@@ -9995,11 +7157,11 @@
 },{
     "text": "PLUME"
 },{
-    "text": "PLUMY"
-},{
     "text": "PLUMP"
 },{
     "text": "PLUMS"
+},{
+    "text": "PLUMY"
 },{
     "text": "PLUNK"
 },{
@@ -10009,13 +7171,15 @@
 },{
     "text": "PLUTO"
 },{
+    "text": "PLYER"
+},{
     "text": "POACH"
 },{
     "text": "POCHE"
 },{
-    "text": "POCKY"
-},{
     "text": "POCKS"
+},{
+    "text": "POCKY"
 },{
     "text": "POCUL"
 },{
@@ -10049,11 +7213,11 @@
 },{
     "text": "POKED"
 },{
-    "text": "POKEY"
-},{
     "text": "POKER"
 },{
     "text": "POKES"
+},{
+    "text": "POKEY"
 },{
     "text": "POKIE"
 },{
@@ -10063,15 +7227,13 @@
 },{
     "text": "POLED"
 },{
-    "text": "POLEY"
-},{
     "text": "POLER"
 },{
     "text": "POLES"
 },{
-    "text": "POLIO"
+    "text": "POLEY"
 },{
-    "text": "POLYP"
+    "text": "POLIO"
 },{
     "text": "POLIS"
 },{
@@ -10081,13 +7243,15 @@
 },{
     "text": "POLKA"
 },{
-    "text": "POLLY"
-},{
     "text": "POLLS"
+},{
+    "text": "POLLY"
 },{
     "text": "POLOI"
 },{
     "text": "POLOS"
+},{
+    "text": "POLYP"
 },{
     "text": "POMBE"
 },{
@@ -10147,9 +7311,9 @@
 },{
     "text": "PORIA"
 },{
-    "text": "PORKY"
-},{
     "text": "PORKS"
+},{
+    "text": "PORKY"
 },{
     "text": "PORNO"
 },{
@@ -10167,11 +7331,11 @@
 },{
     "text": "POSED"
 },{
-    "text": "POSEY"
-},{
     "text": "POSER"
 },{
     "text": "POSES"
+},{
+    "text": "POSEY"
 },{
     "text": "POSHO"
 },{
@@ -10189,9 +7353,9 @@
 },{
     "text": "POTSY"
 },{
-    "text": "POTTY"
-},{
     "text": "POTTO"
+},{
+    "text": "POTTY"
 },{
     "text": "POTUS"
 },{
@@ -10205,9 +7369,9 @@
 },{
     "text": "POURS"
 },{
-    "text": "POUTY"
-},{
     "text": "POUTS"
+},{
+    "text": "POUTY"
 },{
     "text": "POWAN"
 },{
@@ -10220,8 +7384,6 @@
     "text": "PRADO"
 },{
     "text": "PRAHU"
-},{
-    "text": "PRAYS"
 },{
     "text": "PRAMS"
 },{
@@ -10243,13 +7405,13 @@
 },{
     "text": "PRAUS"
 },{
+    "text": "PRAYS"
+},{
     "text": "PREED"
 },{
     "text": "PREEN"
 },{
     "text": "PREES"
-},{
-    "text": "PREYS"
 },{
     "text": "PREPS"
 },{
@@ -10265,21 +7427,21 @@
 },{
     "text": "PREXY"
 },{
+    "text": "PREYS"
+},{
     "text": "PRIAM"
 },{
     "text": "PRICE"
 },{
-    "text": "PRICY"
-},{
     "text": "PRICK"
+},{
+    "text": "PRICY"
 },{
     "text": "PRIDE"
 },{
     "text": "PRIED"
 },{
     "text": "PRIER"
-},{
-    "text": "PRYER"
 },{
     "text": "PRIES"
 },{
@@ -10349,9 +7511,9 @@
 },{
     "text": "PROSE"
 },{
-    "text": "PROSY"
-},{
     "text": "PROSS"
+},{
+    "text": "PROSY"
 },{
     "text": "PROTE"
 },{
@@ -10375,13 +7537,13 @@
 },{
     "text": "PRUTA"
 },{
+    "text": "PRYER"
+},{
     "text": "PSALM"
 },{
     "text": "PSEUD"
 },{
     "text": "PSHAW"
-},{
-    "text": "PSYCH"
 },{
     "text": "PSOAE"
 },{
@@ -10390,6 +7552,8 @@
     "text": "PSOAS"
 },{
     "text": "PSORA"
+},{
+    "text": "PSYCH"
 },{
     "text": "PUBES"
 },{
@@ -10409,9 +7573,9 @@
 },{
     "text": "PUDIC"
 },{
-    "text": "PUFFY"
-},{
     "text": "PUFFS"
+},{
+    "text": "PUFFY"
 },{
     "text": "PUGET"
 },{
@@ -10441,9 +7605,9 @@
 },{
     "text": "PULLI"
 },{
-    "text": "PULPY"
-},{
     "text": "PULPS"
+},{
+    "text": "PULPY"
 },{
     "text": "PULSE"
 },{
@@ -10467,17 +7631,17 @@
 },{
     "text": "PUNKA"
 },{
-    "text": "PUNKY"
-},{
     "text": "PUNKS"
+},{
+    "text": "PUNKY"
 },{
     "text": "PUNNY"
 },{
     "text": "PUNTA"
 },{
-    "text": "PUNTY"
-},{
     "text": "PUNTS"
+},{
+    "text": "PUNTY"
 },{
     "text": "PUPAE"
 },{
@@ -10521,11 +7685,31 @@
 },{
     "text": "PUTON"
 },{
-    "text": "PUTTY"
-},{
     "text": "PUTTO"
 },{
     "text": "PUTTS"
+},{
+    "text": "PUTTY"
+},{
+    "text": "PYGMY"
+},{
+    "text": "PYINS"
+},{
+    "text": "PYLON"
+},{
+    "text": "PYOID"
+},{
+    "text": "PYRAN"
+},{
+    "text": "PYRES"
+},{
+    "text": "PYREX"
+},{
+    "text": "PYXES"
+},{
+    "text": "PYXIE"
+},{
+    "text": "PYXIS"
 },{
     "text": "QAIDS"
 },{
@@ -10549,8 +7733,6 @@
 },{
     "text": "QUAIL"
 },{
-    "text": "QUAYS"
-},{
     "text": "QUAKE"
 },{
     "text": "QUAKY"
@@ -10573,6 +7755,8 @@
 },{
     "text": "QUASS"
 },{
+    "text": "QUAYS"
+},{
     "text": "QUBBA"
 },{
     "text": "QUEAN"
@@ -10581,17 +7765,17 @@
 },{
     "text": "QUEER"
 },{
-    "text": "QUEYS"
-},{
     "text": "QUELL"
 },{
-    "text": "QUERY"
-},{
     "text": "QUERN"
+},{
+    "text": "QUERY"
 },{
     "text": "QUEST"
 },{
     "text": "QUEUE"
+},{
+    "text": "QUEYS"
 },{
     "text": "QUICK"
 },{
@@ -10691,23 +7875,15 @@
 },{
     "text": "RAGIS"
 },{
-    "text": "RAYAH"
-},{
     "text": "RAIAS"
-},{
-    "text": "RAYAS"
 },{
     "text": "RAIDS"
 },{
-    "text": "RAYED"
-},{
     "text": "RAILS"
-},{
-    "text": "RAINY"
 },{
     "text": "RAINS"
 },{
-    "text": "RAYON"
+    "text": "RAINY"
 },{
     "text": "RAISE"
 },{
@@ -10757,9 +7933,9 @@
 },{
     "text": "RANCH"
 },{
-    "text": "RANDY"
-},{
     "text": "RANDS"
+},{
+    "text": "RANDY"
 },{
     "text": "RANEE"
 },{
@@ -10791,9 +7967,9 @@
 },{
     "text": "RASON"
 },{
-    "text": "RASPY"
-},{
     "text": "RASPS"
+},{
+    "text": "RASPY"
 },{
     "text": "RASSE"
 },{
@@ -10845,6 +8021,14 @@
 },{
     "text": "RAXES"
 },{
+    "text": "RAYAH"
+},{
+    "text": "RAYAS"
+},{
+    "text": "RAYED"
+},{
+    "text": "RAYON"
+},{
     "text": "RAZED"
 },{
     "text": "RAZEE"
@@ -10863,9 +8047,9 @@
 },{
     "text": "READD"
 },{
-    "text": "READY"
-},{
     "text": "READS"
+},{
+    "text": "READY"
 },{
     "text": "REALM"
 },{
@@ -10897,19 +8081,19 @@
 },{
     "text": "REBOP"
 },{
-    "text": "REBUY"
-},{
     "text": "REBUS"
 },{
     "text": "REBUT"
+},{
+    "text": "REBUY"
 },{
     "text": "RECAP"
 },{
     "text": "RECCE"
 },{
-    "text": "RECCY"
-},{
     "text": "RECCO"
+},{
+    "text": "RECCY"
 },{
     "text": "RECIP"
 },{
@@ -10943,8 +8127,6 @@
 },{
     "text": "REDID"
 },{
-    "text": "REDYE"
-},{
     "text": "REDLY"
 },{
     "text": "REDOS"
@@ -10955,15 +8137,17 @@
 },{
     "text": "REDUX"
 },{
-    "text": "REEDY"
+    "text": "REDYE"
 },{
     "text": "REEDS"
 },{
+    "text": "REEDY"
+},{
     "text": "REEFS"
 },{
-    "text": "REEKY"
-},{
     "text": "REEKS"
+},{
+    "text": "REEKY"
 },{
     "text": "REELS"
 },{
@@ -10999,9 +8183,9 @@
 },{
     "text": "REICH"
 },{
-    "text": "REIFY"
-},{
     "text": "REIFS"
+},{
+    "text": "REIFY"
 },{
     "text": "REIGN"
 },{
@@ -11011,9 +8195,9 @@
 },{
     "text": "REJIG"
 },{
-    "text": "RELAY"
-},{
     "text": "RELAX"
+},{
+    "text": "RELAY"
 },{
     "text": "RELIC"
 },{
@@ -11091,9 +8275,9 @@
 },{
     "text": "RETIN"
 },{
-    "text": "RETRY"
-},{
     "text": "RETRO"
+},{
+    "text": "RETRY"
 },{
     "text": "REUSE"
 },{
@@ -11121,19 +8305,19 @@
 },{
     "text": "RHEUM"
 },{
-    "text": "RHYME"
-},{
     "text": "RHINE"
 },{
     "text": "RHINO"
-},{
-    "text": "RHYTA"
 },{
     "text": "RHODA"
 },{
     "text": "RHOMB"
 },{
     "text": "RHUMB"
+},{
+    "text": "RHYME"
+},{
+    "text": "RHYTA"
 },{
     "text": "RIALS"
 },{
@@ -11147,11 +8331,11 @@
 },{
     "text": "RICED"
 },{
-    "text": "RICEY"
-},{
     "text": "RICER"
 },{
     "text": "RICES"
+},{
+    "text": "RICEY"
 },{
     "text": "RICHT"
 },{
@@ -11160,8 +8344,6 @@
     "text": "RICKY"
 },{
     "text": "RIDER"
-},{
-    "text": "RYDER"
 },{
     "text": "RIDES"
 },{
@@ -11189,13 +8371,11 @@
 },{
     "text": "RIGOR"
 },{
-    "text": "RIYAL"
-},{
     "text": "RILED"
 },{
-    "text": "RILEY"
-},{
     "text": "RILES"
+},{
+    "text": "RILEY"
 },{
     "text": "RILLE"
 },{
@@ -11209,11 +8389,9 @@
 },{
     "text": "RIMES"
 },{
-    "text": "RINDY"
-},{
     "text": "RINDS"
 },{
-    "text": "RYNDS"
+    "text": "RINDY"
 },{
     "text": "RINGS"
 },{
@@ -11222,8 +8400,6 @@
     "text": "RINSE"
 },{
     "text": "RIOTS"
-},{
-    "text": "RYOTS"
 },{
     "text": "RIPEN"
 },{
@@ -11237,9 +8413,9 @@
 },{
     "text": "RISHI"
 },{
-    "text": "RISKY"
-},{
     "text": "RISKS"
+},{
+    "text": "RISKY"
 },{
     "text": "RITES"
 },{
@@ -11258,6 +8434,8 @@
     "text": "RIVES"
 },{
     "text": "RIVET"
+},{
+    "text": "RIYAL"
 },{
     "text": "RIZAR"
 },{
@@ -11287,9 +8465,9 @@
 },{
     "text": "ROCHE"
 },{
-    "text": "ROCKY"
-},{
     "text": "ROCKS"
+},{
+    "text": "ROCKY"
 },{
     "text": "RODEO"
 },{
@@ -11297,11 +8475,9 @@
 },{
     "text": "ROGUE"
 },{
-    "text": "ROYAL"
+    "text": "ROILS"
 },{
     "text": "ROILY"
-},{
-    "text": "ROILS"
 },{
     "text": "ROJAK"
 },{
@@ -11333,13 +8509,13 @@
 },{
     "text": "ROOFS"
 },{
-    "text": "ROOKY"
-},{
     "text": "ROOKS"
 },{
-    "text": "ROOMY"
+    "text": "ROOKY"
 },{
     "text": "ROOMS"
+},{
+    "text": "ROOMY"
 },{
     "text": "ROOSE"
 },{
@@ -11347,17 +8523,17 @@
 },{
     "text": "ROOTI"
 },{
-    "text": "ROOTY"
-},{
     "text": "ROOTS"
 },{
-    "text": "ROPED"
+    "text": "ROOTY"
 },{
-    "text": "ROPEY"
+    "text": "ROPED"
 },{
     "text": "ROPER"
 },{
     "text": "ROPES"
+},{
+    "text": "ROPEY"
 },{
     "text": "ROQUE"
 },{
@@ -11435,6 +8611,8 @@
 },{
     "text": "ROWTH"
 },{
+    "text": "ROYAL"
+},{
     "text": "RUANA"
 },{
     "text": "RUBBY"
@@ -11449,9 +8627,9 @@
 },{
     "text": "RUCKS"
 },{
-    "text": "RUDDY"
-},{
     "text": "RUDDS"
+},{
+    "text": "RUDDY"
 },{
     "text": "RUDER"
 },{
@@ -11505,9 +8683,9 @@
 },{
     "text": "RUNNY"
 },{
-    "text": "RUNTY"
-},{
     "text": "RUNTS"
+},{
+    "text": "RUNTY"
 },{
     "text": "RUPEE"
 },{
@@ -11521,15 +8699,21 @@
 },{
     "text": "RUSKS"
 },{
-    "text": "RUSTY"
-},{
     "text": "RUSTS"
+},{
+    "text": "RUSTY"
 },{
     "text": "RUTHS"
 },{
     "text": "RUTIN"
 },{
     "text": "RUTTY"
+},{
+    "text": "RYDER"
+},{
+    "text": "RYNDS"
+},{
+    "text": "RYOTS"
 },{
     "text": "SABER"
 },{
@@ -11559,15 +8743,15 @@
 },{
     "text": "SALSA"
 },{
-    "text": "SALTY"
-},{
     "text": "SALTS"
+},{
+    "text": "SALTY"
 },{
     "text": "SAMOA"
 },{
-    "text": "SANDY"
-},{
     "text": "SANDS"
+},{
+    "text": "SANDY"
 },{
     "text": "SAPPY"
 },{
@@ -11589,9 +8773,9 @@
 },{
     "text": "SAVES"
 },{
-    "text": "SAVOY"
-},{
     "text": "SAVOR"
+},{
+    "text": "SAVOY"
 },{
     "text": "SAVVY"
 },{
@@ -11613,9 +8797,9 @@
 },{
     "text": "SCARF"
 },{
-    "text": "SCARY"
-},{
     "text": "SCARS"
+},{
+    "text": "SCARY"
 },{
     "text": "SCENE"
 },{
@@ -11679,9 +8863,9 @@
 },{
     "text": "SEDUM"
 },{
-    "text": "SEEDY"
-},{
     "text": "SEEDS"
+},{
+    "text": "SEEDY"
 },{
     "text": "SEEKS"
 },{
@@ -11785,9 +8969,9 @@
 },{
     "text": "SHINE"
 },{
-    "text": "SHINY"
-},{
     "text": "SHINS"
+},{
+    "text": "SHINY"
 },{
     "text": "SHIPS"
 },{
@@ -11815,11 +8999,11 @@
 },{
     "text": "SHOVE"
 },{
-    "text": "SHOWY"
-},{
     "text": "SHOWN"
 },{
     "text": "SHOWS"
+},{
+    "text": "SHOWY"
 },{
     "text": "SHRED"
 },{
@@ -11855,13 +9039,13 @@
 },{
     "text": "SIGNS"
 },{
-    "text": "SILKY"
-},{
     "text": "SILKS"
 },{
-    "text": "SILLY"
+    "text": "SILKY"
 },{
     "text": "SILLS"
+},{
+    "text": "SILLY"
 },{
     "text": "SILOS"
 },{
@@ -11888,10 +9072,6 @@
     "text": "SIREE"
 },{
     "text": "SIREN"
-},{
-    "text": "SYRIA"
-},{
-    "text": "SYRUP"
 },{
     "text": "SISAL"
 },{
@@ -11939,8 +9119,6 @@
 },{
     "text": "SLAIN"
 },{
-    "text": "SLAYS"
-},{
     "text": "SLAMS"
 },{
     "text": "SLANT"
@@ -11956,6 +9134,8 @@
     "text": "SLAVE"
 },{
     "text": "SLAVS"
+},{
+    "text": "SLAYS"
 },{
     "text": "SLEDS"
 },{
@@ -12077,9 +9257,9 @@
 },{
     "text": "SNOUT"
 },{
-    "text": "SNOWY"
-},{
     "text": "SNOWS"
+},{
+    "text": "SNOWY"
 },{
     "text": "SNUBS"
 },{
@@ -12091,9 +9271,9 @@
 },{
     "text": "SOAKS"
 },{
-    "text": "SOAPY"
-},{
     "text": "SOAPS"
+},{
+    "text": "SOAPY"
 },{
     "text": "SOBER"
 },{
@@ -12129,9 +9309,9 @@
 },{
     "text": "SOUND"
 },{
-    "text": "SOUPY"
-},{
     "text": "SOUPS"
+},{
+    "text": "SOUPY"
 },{
     "text": "SOURS"
 },{
@@ -12259,8 +9439,6 @@
 },{
     "text": "STAIR"
 },{
-    "text": "STAYS"
-},{
     "text": "STAKE"
 },{
     "text": "STALE"
@@ -12291,6 +9469,8 @@
 },{
     "text": "STAVE"
 },{
+    "text": "STAYS"
+},{
     "text": "STEAD"
 },{
     "text": "STEAK"
@@ -12314,8 +9494,6 @@
     "text": "STICK"
 },{
     "text": "STIFF"
-},{
-    "text": "STYLE"
 },{
     "text": "STILL"
 },{
@@ -12351,11 +9529,11 @@
 },{
     "text": "STORE"
 },{
-    "text": "STORY"
-},{
     "text": "STORK"
 },{
     "text": "STORM"
+},{
+    "text": "STORY"
 },{
     "text": "STOUT"
 },{
@@ -12363,11 +9541,11 @@
 },{
     "text": "STOWS"
 },{
-    "text": "STRAY"
-},{
     "text": "STRAP"
 },{
     "text": "STRAW"
+},{
+    "text": "STRAY"
 },{
     "text": "STREP"
 },{
@@ -12381,9 +9559,9 @@
 },{
     "text": "STUCK"
 },{
-    "text": "STUDY"
-},{
     "text": "STUDS"
+},{
+    "text": "STUDY"
 },{
     "text": "STUFF"
 },{
@@ -12394,6 +9572,8 @@
     "text": "STUNS"
 },{
     "text": "STUNT"
+},{
+    "text": "STYLE"
 },{
     "text": "SUAVE"
 },{
@@ -12411,9 +9591,9 @@
 },{
     "text": "SUITS"
 },{
-    "text": "SULKY"
-},{
     "text": "SULKS"
+},{
+    "text": "SULKY"
 },{
     "text": "SUNNI"
 },{
@@ -12433,8 +9613,6 @@
 },{
     "text": "SWABS"
 },{
-    "text": "SWAYS"
-},{
     "text": "SWALE"
 },{
     "text": "SWAMP"
@@ -12448,6 +9626,8 @@
     "text": "SWARM"
 },{
     "text": "SWATH"
+},{
+    "text": "SWAYS"
 },{
     "text": "SWEAR"
 },{
@@ -12493,6 +9673,10 @@
 },{
     "text": "SWUNG"
 },{
+    "text": "SYRIA"
+},{
+    "text": "SYRUP"
+},{
     "text": "TABBY"
 },{
     "text": "TABLE"
@@ -12513,9 +9697,9 @@
 },{
     "text": "TACIT"
 },{
-    "text": "TACKY"
-},{
     "text": "TACKS"
+},{
+    "text": "TACKY"
 },{
     "text": "TACOS"
 },{
@@ -12549,9 +9733,9 @@
 },{
     "text": "TAMIL"
 },{
-    "text": "TANGY"
-},{
     "text": "TANGO"
+},{
+    "text": "TANGY"
 },{
     "text": "TANKS"
 },{
@@ -12597,9 +9781,9 @@
 },{
     "text": "TEAMS"
 },{
-    "text": "TEARY"
-},{
     "text": "TEARS"
+},{
+    "text": "TEARY"
 },{
     "text": "TEASE"
 },{
@@ -12607,9 +9791,9 @@
 },{
     "text": "TEEMS"
 },{
-    "text": "TEENY"
-},{
     "text": "TEENS"
+},{
+    "text": "TEENY"
 },{
     "text": "TEETH"
 },{
@@ -12645,9 +9829,9 @@
 },{
     "text": "TESLA"
 },{
-    "text": "TESTY"
-},{
     "text": "TESTS"
+},{
+    "text": "TESTY"
 },{
     "text": "TEXAN"
 },{
@@ -12670,8 +9854,6 @@
     "text": "THIEF"
 },{
     "text": "THIGH"
-},{
-    "text": "THYME"
 },{
     "text": "THING"
 },{
@@ -12705,13 +9887,13 @@
 },{
     "text": "THUMP"
 },{
+    "text": "THYME"
+},{
     "text": "TIBER"
 },{
     "text": "TIBET"
 },{
     "text": "TIBIA"
-},{
-    "text": "TYCHE"
 },{
     "text": "TICKS"
 },{
@@ -12724,8 +9906,6 @@
     "text": "TIGER"
 },{
     "text": "TIGHT"
-},{
-    "text": "TYING"
 },{
     "text": "TIKES"
 },{
@@ -12756,12 +9936,6 @@
     "text": "TIMOR"
 },{
     "text": "TINTS"
-},{
-    "text": "TYPED"
-},{
-    "text": "TYPES"
-},{
-    "text": "TYPOS"
 },{
     "text": "TIPSY"
 },{
@@ -12841,9 +10015,9 @@
 },{
     "text": "TOWER"
 },{
-    "text": "TOWNY"
-},{
     "text": "TOWNS"
+},{
+    "text": "TOWNY"
 },{
     "text": "TOXIC"
 },{
@@ -12861,8 +10035,6 @@
 },{
     "text": "TRAIN"
 },{
-    "text": "TRAYS"
-},{
     "text": "TRAIT"
 },{
     "text": "TRAMP"
@@ -12874,6 +10046,8 @@
     "text": "TRASH"
 },{
     "text": "TRAWL"
+},{
+    "text": "TRAYS"
 },{
     "text": "TREAD"
 },{
@@ -12901,8 +10075,6 @@
 },{
     "text": "TRIPS"
 },{
-    "text": "TRYST"
-},{
     "text": "TROLL"
 },{
     "text": "TROOP"
@@ -12928,6 +10100,8 @@
     "text": "TRUST"
 },{
     "text": "TRUTH"
+},{
+    "text": "TRYST"
 },{
     "text": "TUBES"
 },{
@@ -12997,6 +10171,16 @@
 },{
     "text": "TWITS"
 },{
+    "text": "TYCHE"
+},{
+    "text": "TYING"
+},{
+    "text": "TYPED"
+},{
+    "text": "TYPES"
+},{
+    "text": "TYPOS"
+},{
     "text": "UDDER"
 },{
     "text": "ULCER"
@@ -13039,9 +10223,9 @@
 },{
     "text": "UNITE"
 },{
-    "text": "UNITY"
-},{
     "text": "UNITS"
+},{
+    "text": "UNITY"
 },{
     "text": "UNLIT"
 },{
@@ -13147,9 +10331,9 @@
 },{
     "text": "VEENA"
 },{
-    "text": "VEERY"
-},{
     "text": "VEERS"
+},{
+    "text": "VEERY"
 },{
     "text": "VEGAN"
 },{
@@ -13367,9 +10551,9 @@
 },{
     "text": "WEALD"
 },{
-    "text": "WEARY"
-},{
     "text": "WEARS"
+},{
+    "text": "WEARY"
 },{
     "text": "WEAVE"
 },{
@@ -13383,9 +10567,9 @@
 },{
     "text": "WEEKS"
 },{
-    "text": "WEEPY"
-},{
     "text": "WEEPS"
+},{
+    "text": "WEEPY"
 },{
     "text": "WEFTS"
 },{
@@ -13405,9 +10589,9 @@
 },{
     "text": "WENCH"
 },{
-    "text": "WENDY"
-},{
     "text": "WENDS"
+},{
+    "text": "WENDY"
 },{
     "text": "WERSH"
 },{
@@ -13469,9 +10653,9 @@
 },{
     "text": "WINCH"
 },{
-    "text": "WINDY"
-},{
     "text": "WINDS"
+},{
+    "text": "WINDY"
 },{
     "text": "WINED"
 },{
@@ -13499,9 +10683,9 @@
 },{
     "text": "WISES"
 },{
-    "text": "WISPY"
-},{
     "text": "WISPS"
+},{
+    "text": "WISPY"
 },{
     "text": "WITAN"
 },{
@@ -13533,17 +10717,17 @@
 },{
     "text": "WONKY"
 },{
-    "text": "WOODY"
-},{
     "text": "WOODS"
+},{
+    "text": "WOODY"
 },{
     "text": "WOOED"
 },{
     "text": "WOOER"
 },{
-    "text": "WOOLY"
-},{
     "text": "WOOLS"
+},{
+    "text": "WOOLY"
 },{
     "text": "WOOPS"
 },{
@@ -13551,17 +10735,17 @@
 },{
     "text": "WOOZY"
 },{
-    "text": "WORDY"
-},{
     "text": "WORDS"
+},{
+    "text": "WORDY"
 },{
     "text": "WORKS"
 },{
     "text": "WORLD"
 },{
-    "text": "WORMY"
-},{
     "text": "WORMS"
+},{
+    "text": "WORMY"
 },{
     "text": "WORRY"
 },{
@@ -13620,6 +10804,66 @@
     "text": "XENON"
 },{
     "text": "XEROX"
+},{
+    "text": "YACHT"
+},{
+    "text": "YACKS"
+},{
+    "text": "YAHOO"
+},{
+    "text": "YANKS"
+},{
+    "text": "YAPPY"
+},{
+    "text": "YARDS"
+},{
+    "text": "YARNS"
+},{
+    "text": "YAWNS"
+},{
+    "text": "YEARN"
+},{
+    "text": "YEARS"
+},{
+    "text": "YEAST"
+},{
+    "text": "YELLS"
+},{
+    "text": "YELPS"
+},{
+    "text": "YETIS"
+},{
+    "text": "YIELD"
+},{
+    "text": "YIKES"
+},{
+    "text": "YIPES"
+},{
+    "text": "YOKEL"
+},{
+    "text": "YOLKS"
+},{
+    "text": "YOUNG"
+},{
+    "text": "YOURS"
+},{
+    "text": "YOUTH"
+},{
+    "text": "YOWLS"
+},{
+    "text": "YUCCA"
+},{
+    "text": "YUCCH"
+},{
+    "text": "YUCKY"
+},{
+    "text": "YUKON"
+},{
+    "text": "YUMAN"
+},{
+    "text": "YUMMY"
+},{
+    "text": "YURTS"
 },{
     "text": "ZAMIA"
 },{
