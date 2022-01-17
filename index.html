@@ -229,14 +229,17 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <script>
+  // Bring our word pool, generate a random number and pick a word for our player
   let words = $.ajax({type: "GET", url: "https://raw.githubusercontent.com/fitzpk/Its-Katies-Wordle/main/json/flw.json", async: false}).responseText;
   let words_parsed = JSON.parse(words);
 
   let random_num = Math.floor(Math.random() * (words_parsed.length - 0 + 1)) + 0;
   let word = words_parsed[random_num]["text"];
+  
+  // Bring in all five letter words so we can check if each attempt is an actual word
+  let all_flw_words = $.ajax({type: "GET", url: "https://raw.githubusercontent.com/fitzpk/Its-Katies-Wordle/main/json/all_flw.json", async: false}).responseText;
+  let all_flw_words_parsed = JSON.parse(all_flw_words);
 
-
-  //let word = "BANJO";
   let enter_count = 0;
   let letter_count = 0;
 
@@ -276,7 +279,7 @@
          var entered_letter = boxes[i].innerHTML;
          entered_word += entered_letter;
       }
-      var real_word_check = words_parsed.some(item => item.text === entered_word);
+      var real_word_check = all_flw_words_parsed.some(item => item.text === entered_word);
 
       /* if it is real then continue by evaluating each letter in the attempt*/
       if (real_word_check == true) {
